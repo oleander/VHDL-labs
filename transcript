@@ -1,0 +1,35 @@
+# //  QuestaSim-64 6.5b May 21 2009 Linux 2.6.36-02063602-generic
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+project open /chalmers/users/oleander/VHDL/Projects/halfadder-1-2/Halvadderare.mpf
+# Loading project Halvadderare
+# after#254
+# Compile of halfadd.vhd was successful.
+vsim work.halfadd
+# vsim work.halfadd 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.halfadd(comb)#1
+restart -f
+force x 0
+force y 0
+run 100
+force x 1
+run 100
+force y 1
+run 100
+force x 0
+run 100
+do halfadd.do
+do halfadd.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do halfadd.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf

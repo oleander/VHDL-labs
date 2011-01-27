@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/oleander/VHDL
+T_opt
+VW]i46WQ74c?Rd@h_]QK_40
+04 7 4 work halfadd comb 1
+=1-0013d32bab3a-4d41e893-ed612-2295
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;6.5b;42
+Ehalfadd
+Z1 w1296164932
+Z2 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z4 d/chalmers/users/oleander/VHDL/Projects/halfadder-1-2
+Z5 8/chalmers/users/oleander/VHDL/Projects/halfadder-1-2/halfadd.vhd
+Z6 F/chalmers/users/oleander/VHDL/Projects/halfadder-1-2/halfadd.vhd
+l0
+L5
+V1KTnRV_f8HP>9oZaOgS6b0
+!s100 JhCdNK0EFc:g<W9a`O60e0
+Z7 OL;C;6.5b;42
+32
+Z8 o-work work -2002 -explicit
+Z9 tExplicit 1
+Acomb
+R2
+R3
+Z10 DEx4 work 7 halfadd 0 22 1KTnRV_f8HP>9oZaOgS6b0
+l15
+L14
+Z11 VazA@HaoCWS;ab50><=TUg1
+Z12 !s100 8W:60b[b:9[=?@jM^IX?[2
+R7
+32
+Z13 Mx2 4 ieee 14 std_logic_1164
+Z14 Mx1 4 ieee 11 numeric_std
+R8
+R9

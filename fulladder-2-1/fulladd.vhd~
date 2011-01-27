@@ -1,0 +1,17 @@
+library ieee ;
+  use ieee.std_logic_1164.all ;
+  use ieee.numeric_std.all ;
+
+entity fulladd is
+  port (
+    a,b,cin: IN std_logic;
+    cut: OUT std_logic
+  ) ;
+end entity ; -- fulladd
+
+architecture arch of fulladd is
+begin
+  s <= (a xor b) xor cin;
+  cut <= (a and b) or (a and cin) or (b and cin);
+
+end architecture ; -- arch

@@ -8,28 +8,6 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-project open /chalmers/users/oleander/VHDL/Projects/halfadder-1-2/Halvadderare.mpf
-# Loading project Halvadderare
-# after#254
-# Compile of halfadd.vhd was successful.
-vsim work.halfadd
-# vsim work.halfadd 
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.halfadd(comb)#1
-restart -f
-force x 0
-force y 0
-run 100
-force x 1
-run 100
-force y 1
-run 100
-force x 0
-run 100
-do halfadd.do
-do halfadd.do
-# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
-do halfadd.do
-# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Loading project 1-bits-komparator
+# Compile of comp1.vhd failed with 1 errors.
+# Compile of comp1.vhd was successful.

@@ -8,24 +8,37 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-# Loading project Decoder-3-8
-# Compile of decoder.vhd was successful.
-# Compile of decoder.vhd was successful.
-# Compile of decoder.vhd was successful.
-# Compile of decoder.vhd failed with 1 errors.
-# Compile of decoder.vhd failed with 1 errors.
-# Compile of decoder.vhd failed with 1 errors.
-# Compile of decoder.vhd was successful.
-vsim work.decoder
-# vsim work.decoder 
+# Loading project Decoder3-8p
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd failed with 1 errors.
+# Compile of decoder38p.vhd was successful.
+# Compile of decoder38p.vhd was successful.
+vsim work.decoder38p
+# vsim work.decoder38p 
 # ** Note: (vsim-3812) Design is being optimized...
 # Loading std.standard
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.numeric_std(body)
-# Loading work.decoder(arch)#1
+# Loading work.decoder38p(arch)#1
 force s 001
 run
-force s 111
+force s 000
 run
-force s 110
+force s 111
 run

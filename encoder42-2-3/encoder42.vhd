@@ -12,9 +12,9 @@ end entity;  -- encoder42
 
 architecture arch of encoder42 is
 begin
-  f <= b"00" when a = b"0000" else
-       b"01" when a = b"0001" else
-       b"10" when a = b"0010" else
+  f <= b"00" when a = b"0001" else
+       b"01" when a = b"0010" else
+       b"10" when a = b"0100" else
        b"11";
   
   with a select

@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/oleander/VHDL/Projects
+T_opt
+VOOf7O:ImFTBClJdY?RRMD0
+04 9 4 work encoder42 arch 1
+Z1 =2-0013d32bab3a-4d42d5c1-23a3-565a
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 n@_opt
+Z4 OL;O;6.5b;42
+Eencoder42
+Z5 w1296225715
+Z6 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z8 d/chalmers/users/oleander/VHDL/Projects/encoder42-2-3
+Z9 8/chalmers/users/oleander/VHDL/Projects/encoder42-2-3/encoder42.vhd
+Z10 F/chalmers/users/oleander/VHDL/Projects/encoder42-2-3/encoder42.vhd
+l0
+L5
+Z11 VTQLE@[doF:AN7WS[g_kh<3
+Z12 OL;C;6.5b;42
+32
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Z15 !s100 1]hlNhDnTgACdC2lFmTH61
+Aarch
+R6
+R7
+Z16 DEx4 work 9 encoder42 0 22 TQLE@[doF:AN7WS[g_kh<3
+l14
+L13
+Z17 VNNUJPd>`Pl`fY4EhRP`K33
+R12
+32
+Z18 Mx2 4 ieee 14 std_logic_1164
+Z19 Mx1 4 ieee 11 numeric_std
+R13
+R14
+Z20 !s100 Jne:=6J]fIOVU5DFg?lBZ1

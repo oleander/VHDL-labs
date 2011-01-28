@@ -8,6 +8,82 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-# Loading project 1-bits-komparator
-# Compile of comp1.vhd failed with 1 errors.
-# Compile of comp1.vhd was successful.
+project open /chalmers/users/oleander/VHDL/Projects/encoder42-2-3/Prioritetsavkodare.mpf
+# Loading project Prioritetsavkodare
+# after#551
+# Compile of encoder42.vhd failed with 2 errors.
+# Compile of encoder42.vhd failed with 2 errors.
+# Compile of encoder42.vhd failed with 2 errors.
+# Compile of encoder42.vhd failed with 2 errors.
+# Compile of encoder42.vhd failed with 1 errors.
+# Compile of encoder42.vhd was successful with warnings.
+vsim work.encoder42
+# vsim work.encoder42 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.encoder42(arch)#1
+force a 0000
+run
+force a 0001
+run
+# Compile of encoder42.vhd was successful.
+vsim work.encoder42
+# vsim work.encoder42 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.encoder42(arch)#1
+force a 0001
+run
+# Compile of encoder42.vhd failed with 1 errors.
+# Compile of encoder42.vhd was successful.
+vsim work.encoder42
+# vsim work.encoder42 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.encoder42(arch)#1
+force a 0001
+run
+force a 0000
+run
+vsim work.encoder42
+# vsim work.encoder42 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.encoder42(arch)#1
+force a 0000
+run
+force a 0001
+run
+force a 0000
+run
+force a 0000
+run
+# Compile of encoder42.vhd failed with 1 errors.
+# Compile of encoder42.vhd failed with 1 errors.
+# Compile of encoder42.vhd was successful.
+force a 0000
+run
+force a 0001
+run
+# Load canceled
+# Compile of encoder42.vhd was successful.
+force a 0000
+run
+# Compile of encoder42.vhd was successful.
+restart -f
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.encoder42(arch)#1
+force a 0001
+run
+force a 0000
+run

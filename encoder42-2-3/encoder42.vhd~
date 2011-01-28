@@ -1,0 +1,23 @@
+library ieee ;
+  use ieee.std_logic_1164.all ;
+  use ieee.numeric_std.all ;
+
+entity encoder42 is
+  port (
+  a : IN std_logic_vector(3 downto 0) ;
+  f : IN std_logic_vector(1 downto 0) ;
+  z : IN std_logic
+  ) ;
+end entity ; -- encoder42
+
+architecture arch of encoder42 is
+  signal value : std_logic_vector(1 downto 0) ;;
+begin
+  value <= "00" when a = "0000" else
+           "01" when a = "0001" else
+           "10" when a = "0010" else
+           "11";
+  z <= "0" when value = "0000" else "1";
+  
+  f <= value;
+end architecture ; -- arch

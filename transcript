@@ -8,201 +8,22 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-# Loading project 4-bitars-adderare
-# Compile of adder4b.vhd failed with 1 errors.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 1 failed with 1 error. 
-# Compile of adder4b.vhd failed with 1 errors.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 1 failed with 1 error. 
-# Compile of adder4b.vhd failed with 1 errors.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 1 failed with 1 error. 
-# Compile of adder4b.vhd was successful.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 0 failed with no errors. 
-vsim work.adder4b
-# vsim work.adder4b 
+# Loading project 4-bitars-comp
+# Compile of comp4.vhd was successful.
+# Compile of comp4.vhd was successful.
+vsim work.comp4
+# vsim work.comp4 
 # ** Note: (vsim-3812) Design is being optimized...
-# ** Warning: [1] /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd(24): (vopt-3473) Component instance "ss0 : fulladder" is not bound.
-# ** Warning: [1] /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd(25): (vopt-3473) Component instance "ss1 : fulladder" is not bound.
-# ** Warning: [1] /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd(26): (vopt-3473) Component instance "ss2 : fulladder" is not bound.
-# ** Warning: [1] /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd(27): (vopt-3473) Component instance "ss3 : fulladder" is not bound.
 # Loading std.standard
 # Loading ieee.std_logic_1164(body)
 # Loading ieee.numeric_std(body)
-# Loading work.adder4b(arch)#1
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# Compile of adder4b.vhd was successful.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 0 failed with no errors. 
-# Compile of adder4b.vhd was successful.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 0 failed with no errors. 
-# Compile of adder4b.vhd was successful.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 0 failed with no errors. 
-# Compile of adder4b.vhd was successful.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 0 failed with no errors. 
-force dd
-# ** Error: (vish-4001) Incorrect number of arguments.
-# Usage: force [-freeze | -drive | -deposit] [-cancel <time>] [-repeat <time>] <object_name> <value> [<time>] [, <value> <time> ...]
-
+# Loading work.comp4(arch)#1
 force a 0001
 force b 0001
-force cin 0
 run
-vsim work.adder4b
-# vsim work.adder4b 
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.adder4b(arch)#1
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-
 force a 0001
-force a 0001
-
-
-restart -f
-vsim -voptargs=+acc work.adder4b
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# vsim -voptargs=+acc work.adder4b 
-# ** Note: (vsim-3812) Design is being optimized...
-# ** Warning: [1] /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd(24): (vopt-3473) Component instance "ss0 : fulladder" is not bound.
-# ** Warning: [1] /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd(25): (vopt-3473) Component instance "ss1 : fulladder" is not bound.
-# ** Warning: [1] /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd(26): (vopt-3473) Component instance "ss2 : fulladder" is not bound.
-# ** Warning: [1] /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd(27): (vopt-3473) Component instance "ss3 : fulladder" is not bound.
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.adder4b(arch)#1
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-force a 0001
-force 0001 a
-# ** Error: (vish-4008) Object '0001' not found.
-# 
-dfsdf
-# invalid command name "dfsdf"
-force a 0001
-vsim work._opt
-# vsim work._opt 
-# ** Warning: (vsim-1963) Explicit invocation on automatically named optimized design "_opt" will not cause it to be locked.
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.adder4b(arch)#1
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-vsim work.adder4b
-# vsim work.adder4b 
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.adder4b(arch)#1
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-vsim work.adder4b
-# vsim work.adder4b 
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.adder4b(arch)#1
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# Compile of adder4b.vhd was successful.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 0 failed with no errors. 
-vsim work.adder4b
-# vsim work.adder4b 
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.adder4b(arch)#1
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# Compile of adder4b.vhd failed with 1 errors.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 1 failed with 1 error. 
-# Compile of adder4b.vhd failed with 1 errors.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 1 failed with 1 error. 
-# Compile of adder4b.vhd failed with 1 errors.
-# Compile of adder4b.vhd failed with 1 errors.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 1 failed with 1 error. 
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 1 failed with 1 error. 
-# Compile of adder4b.vhd was successful.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 0 failed with no errors. 
-# Compile of adder4b.vhd was successful.
-# Compile of fulladd.vhd was successful.
-# 2 compiles, 0 failed with no errors. 
-vsim work.adder4b
-# vsim work.adder4b 
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.adder4b(arch)#1
-# ** Warning: (vsim-3473) Component instance "ss0 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss1 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss2 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-# ** Warning: (vsim-3473) Component instance "ss3 : fulladder" is not bound.
-#    Time: 0 ns  Iteration: 0  Region: /adder4b  File: /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
+force b 0000
+run
+force a 0000
+force b 0001
+run

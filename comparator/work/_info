@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/oleander/VHDL/Projects
+T_opt
+VPFEc]G93353^e02O@e`g70
+04 5 4 work comp4 arch 1
+Z1 =1-0013d32bab3a-4d45e1f2-266ae-2967
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 n@_opt
+Z4 OL;O;6.5b;42
+Ecomp4
+Z5 w1296425433
+Z6 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z8 d/chalmers/users/oleander/VHDL/Projects/comparator
+Z9 8/chalmers/users/oleander/VHDL/Projects/comparator/comp4.vhd
+Z10 F/chalmers/users/oleander/VHDL/Projects/comparator/comp4.vhd
+l0
+L5
+Z11 V;a^i;@zcc:mVQE82M?lZV3
+Z12 OL;C;6.5b;42
+32
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Z15 !s100 J19i`Bz_YiE8`7>;i_mhD3
+Aarch
+R6
+R7
+Z16 DEx4 work 5 comp4 0 22 ;a^i;@zcc:mVQE82M?lZV3
+l14
+L12
+Z17 Vz0z`:bAITbN`LO_fOLR^i1
+R12
+32
+Z18 Mx2 4 ieee 14 std_logic_1164
+Z19 Mx1 4 ieee 11 numeric_std
+R13
+R14
+Z20 !s100 gKD4IS17jYGgHgV08cB843

@@ -1,0 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+component fulladder
+  port (
+      a, b, cin : in  std_logic;
+      cut, s : out std_logic
+      ) ;
+end component;
+
+entity adder4b is
+  port (
+    a, b : in  std_logic_vector(3 downto 0);
+    cin  : in  std_logic;
+    s    : out std_logic_vector(3 downto 0);
+    cut  : out std_logic
+    ) ;
+end entity;  -- adder4b
+
+architecture arch of adder4b is
+
+begin
+
+end architecture;  -- arch

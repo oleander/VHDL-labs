@@ -23,7 +23,7 @@ begin
       q <= (others => '0');
       
     elsif(ce = '1' and clk'event) then
-      count <= ((b"000" & count(0)) + (b"000" & count(1))+ ( b"000" & count(2)) + ( b"000" & count(3)) + b"0001"); -- when en = '1' else b"0000"; 
+      count <= count + '1';
       q <= count;
     end if;
     ce_out <= ce;

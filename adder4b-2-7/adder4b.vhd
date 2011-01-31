@@ -12,17 +12,17 @@ entity adder4b is
 end entity;  -- adder4b
 
 architecture arch of adder4b is
-  signal c_temp, c_temp1: std_logic;
-  
-  component fulladder
+  signal first, last, second, other: std_logic;
+
+  component fulladd
     port (
       a, b, cin : in  std_logic;
       cut, s    : out std_logic
       ) ;
   end component;
 begin
-  ss0: fulladder port map (a(0), b(0), cin, c_temp, s(0));
-  ss1: fulladder port map (a(1), b(1), c_temp,c_temp1, s(1));
-  ss2: fulladder port map (a(2), b(2), c_temp1,c_temp, s(2));
-  ss3: fulladder port map (a(3), b(3), c_temp,cut, s(1));
+  ss0 : fulladd port map (a(0), b(0), cin,    first,  s(0));
+  ss1 : fulladd port map (a(1), b(1), first,  second, s(1));
+  ss2 : fulladd port map (a(2), b(2), second, other,  s(2));
+  ss3 : fulladd port map (a(3), b(3), other,  cut,    s(3));
 end architecture;  -- arch

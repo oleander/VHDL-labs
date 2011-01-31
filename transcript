@@ -8,39 +8,18 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-# Loading project d-vippa
-# Compile of fde1.vhd failed with 1 errors.
-# Compile of fde1.vhd was successful.
-# Compile of fde1.vhd was successful.
-vsim work.fde1
-# vsim work.fde1 
-# ** Note: (vsim-3812) Design is being optimized...
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading work.fde1(arch)#1
-do runner
-# Cannot open macro file: runner
-do runner.do
-do runner.do
-do runner.do
-# Compile of fde1.vhd was successful.
-# Compile of fde1.vhd was successful.
-do runner.do
-do runner.do
-do runner.do
-# ** Error: invalid command name "orce"
-# Error in macro ./runner.do line 5
-# invalid command name "orce"
-#     while executing
-# "orce d 0 0, 1 50ms, 0 100ms  -repeat 400ms"
-do runner.do
-# Compile of fde1.vhd was successful.
-do runner.do
-# Compile of fde1.vhd was successful.
-do runner.do
-# Compile of fde1.vhd was successful.
-do runner.do
-do runner.do
-do runner.do
-do runner.do
+project open /chalmers/users/oleander/VHDL/Projects/count4b-3-2/Binarraknare.mpf
+# Loading project Binarraknare
+# after#256
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd was successful.
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd failed with 2 errors.
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd failed with 1 errors.
+# Compile of count4b.vhd was successful.

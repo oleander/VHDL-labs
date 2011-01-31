@@ -4,74 +4,81 @@ K3
 cModel Technology
 Z0 d/chalmers/users/oleander/VHDL/Projects
 T_opt
-V`D4J;jcZ^LK=jjYL:H1Fd3
+VN>@6F>2h9Ol21C]Bd2N_22
 Z1 04 7 4 work adder4b arch 1
-=1-0013d32bab3a-4d45dc38-2786e-7993
-o-quiet -auto_acc_if_foreign -work work
-n@_opt
-Z2 OL;O;6.5b;42
+Z2 =1-0013d32bab3a-4d46cd57-6af7-2470
+Z3 o-quiet -auto_acc_if_foreign -work work
+Z4 n@_opt
+Z5 OL;O;6.5b;42
 T_opt1
-VE06ZGC:8]e`]Fe8o@e<;n3
+Z6 VE06ZGC:8]e`]Fe8o@e<;n3
 R1
-=1-0013d32bab3a-4d45dd72-4e4be-364
-o-quiet -auto_acc_if_foreign -work work +acc
-n@_opt1
-R2
+Z7 =1-0013d32bab3a-4d45dd72-4e4be-364
+Z8 o-quiet -auto_acc_if_foreign -work work +acc
+Z9 n@_opt1
+R5
+T_opt2
+Z10 VI0GK]NlL7bdGD^6Eie5fd0
+Z11 04 7 4 work fulladd arch 1
+Z12 =1-0013d32bab3a-4d46c9bc-8610f-238
+R3
+Z13 n@_opt2
+R5
 Eadder4b
-Z3 w1296424689
-Z4 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
-Z5 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
-Z6 d/chalmers/users/oleander/VHDL/Projects/adder4b-2-7
-Z7 8/chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
-Z8 F/chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
+Z14 w1296485684
+Z15 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z16 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z17 d/chalmers/users/oleander/VHDL/Projects/adder4b-2-7
+Z18 8/chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
+Z19 F/chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
 l0
 L5
-VAOB4<FS>ca;foWnzFnoOl1
-Z9 OL;C;6.5b;42
+Z20 VAOB4<FS>ca;foWnzFnoOl1
+Z21 OL;C;6.5b;42
 32
-Z10 o-work work -2002 -explicit
-Z11 tExplicit 1
-!s100 CR89Y=Qej^ml>?>KT5mia0
+Z22 o-work work -2002 -explicit
+Z23 tExplicit 1
+Z24 !s100 CR89Y=Qej^ml>?>KT5mia0
 Aarch
-R4
-R5
-DEx4 work 7 adder4b 0 22 AOB4<FS>ca;foWnzFnoOl1
+R15
+R16
+Z25 DEx4 work 7 adder4b 0 22 AOB4<FS>ca;foWnzFnoOl1
 l23
 L14
-VI1jlH^2l:Eo@MG1f<Non>0
-!s100 PSK>:FQd_:^A2na6mnzZE0
-R9
+Z26 V3IE5WAlHUoTBdC>AoRn8M1
+R21
 32
-Z12 Mx2 4 ieee 14 std_logic_1164
-Z13 Mx1 4 ieee 11 numeric_std
-R10
-R11
+Z27 Mx2 4 ieee 14 std_logic_1164
+Z28 Mx1 4 ieee 11 numeric_std
+R22
+R23
+Z29 !s100 W7J826fGBMogDlVFWP6c_3
 Efulladd
-Z14 w1296169170
-R4
-R5
-R6
-Z15 8/chalmers/users/oleander/VHDL/Projects/fulladder-2-1/fulladd.vhd
-Z16 F/chalmers/users/oleander/VHDL/Projects/fulladder-2-1/fulladd.vhd
+Z30 w1296169170
+R15
+R16
+R17
+Z31 8/chalmers/users/oleander/VHDL/Projects/fulladder-2-1/fulladd.vhd
+Z32 F/chalmers/users/oleander/VHDL/Projects/fulladder-2-1/fulladd.vhd
 l0
 L5
-V[g`BLQgPhkIdWS6T[7iVT1
-!s100 W6gCB]jPT9<zG2HZ`H?TY1
-R9
+Z33 V[g`BLQgPhkIdWS6T[7iVT1
+R21
 32
-R10
-R11
+R22
+R23
+Z34 !s100 W6gCB]jPT9<zG2HZ`H?TY1
 Aarch
-R4
-R5
-Z17 DEx4 work 7 fulladd 0 22 [g`BLQgPhkIdWS6T[7iVT1
+R15
+R16
+Z35 DEx4 work 7 fulladd 0 22 [g`BLQgPhkIdWS6T[7iVT1
 l13
 L12
-Z18 V?hDWa>8ORFNE97`dV=6MH2
-Z19 !s100 Bm=mkjWYCF`m_ii719eSQ3
-R9
+Z36 V?hDWa>8ORFNE97`dV=6MH2
+R21
 32
-R12
-R13
-R10
-R11
+R27
+R28
+R22
+R23
+Z37 !s100 Bm=mkjWYCF`m_ii719eSQ3

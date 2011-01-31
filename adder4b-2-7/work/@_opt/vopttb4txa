@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/oleander/VHDL/Projects
+T_opt
+Z1 VN>@6F>2h9Ol21C]Bd2N_22
+Z2 04 7 4 work adder4b arch 1
+Z3 =1-0013d32bab3a-4d46cd57-6af7-2470
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+T_opt1
+Z7 VE06ZGC:8]e`]Fe8o@e<;n3
+R2
+Z8 =1-0013d32bab3a-4d45dd72-4e4be-364
+Z9 o-quiet -auto_acc_if_foreign -work work +acc
+Z10 n@_opt1
+R6
+T_opt2
+Z11 VI0GK]NlL7bdGD^6Eie5fd0
+Z12 04 7 4 work fulladd arch 1
+Z13 =1-0013d32bab3a-4d46c9bc-8610f-238
+R4
+Z14 n@_opt2
+R6
+Eadder4b
+Z15 w1296485684
+Z16 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z17 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z18 d/chalmers/users/oleander/VHDL/Projects/adder4b-2-7
+Z19 8/chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
+Z20 F/chalmers/users/oleander/VHDL/Projects/adder4b-2-7/adder4b.vhd
+l0
+L5
+Z21 VAOB4<FS>ca;foWnzFnoOl1
+Z22 OL;C;6.5b;42
+32
+Z23 o-work work -2002 -explicit
+Z24 tExplicit 1
+Z25 !s100 CR89Y=Qej^ml>?>KT5mia0
+Aarch
+Z26 DEx55 /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/work 7 fulladd 0 22 [g`BLQgPhkIdWS6T[7iVT1
+Z27 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z28 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z29 DEx55 /chalmers/users/oleander/VHDL/Projects/adder4b-2-7/work 7 adder4b 0 22 AOB4<FS>ca;foWnzFnoOl1
+32
+Z30 Mx2 17 __model_tech/ieee 14 std_logic_1164
+Z31 Mx1 17 __model_tech/ieee 11 numeric_std
+l23
+L14
+Z32 V3IE5WAlHUoTBdC>AoRn8M1
+R22
+R23
+R24
+Z33 !s100 W7J826fGBMogDlVFWP6c_3
+Efulladd
+Z34 w1296169170
+R16
+R17
+R18
+Z35 8/chalmers/users/oleander/VHDL/Projects/fulladder-2-1/fulladd.vhd
+Z36 F/chalmers/users/oleander/VHDL/Projects/fulladder-2-1/fulladd.vhd
+l0
+L5
+Z37 V[g`BLQgPhkIdWS6T[7iVT1
+R22
+32
+R23
+R24
+Z38 !s100 W6gCB]jPT9<zG2HZ`H?TY1
+Aarch
+R16
+R17
+Z39 DEx4 work 7 fulladd 0 22 [g`BLQgPhkIdWS6T[7iVT1
+l13
+L12
+Z40 V?hDWa>8ORFNE97`dV=6MH2
+R22
+32
+Z41 Mx2 4 ieee 14 std_logic_1164
+Z42 Mx1 4 ieee 11 numeric_std
+R23
+R24
+Z43 !s100 Bm=mkjWYCF`m_ii719eSQ3

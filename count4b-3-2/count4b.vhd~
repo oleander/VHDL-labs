@@ -1,0 +1,28 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity count4b is
+  port (
+    reset, clk, ce: in std_logic;
+    ce_out: out std_logic;
+    q: out std_logic_vector(3 downto 0) 
+    ) ;
+end entity;  -- count4b
+
+architecture arch of count4b is
+  
+begin
+  process(reset,clk,ce)
+  variable count : integer := 0; -- Init-värde
+    begin
+      if(reset = '1' and clk'event) then
+        count := 0;
+        -- q <= count;
+      elsif(ce = '1' and clk'event) then
+        count := count + 1;
+      end if;
+      
+      ce_out <= ce;
+  end process;
+end architecture;  -- arch

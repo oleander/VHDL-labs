@@ -1,0 +1,11 @@
+/chalmers/users/oleander/VHDL/Projects/count4b-3-2/count4b.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/count4b-3-2/count4b.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity count4b
+-- Compiling architecture arch of count4b
+
+} {} {}}

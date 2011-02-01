@@ -8,19 +8,9 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-project open /chalmers/users/oleander/VHDL/Projects/count4b-3-2/Binarraknare.mpf
-# Loading project Binarraknare
-# after#241
+project open /chalmers/users/oleander/VHDL/Projects/labb2/assignment-1-1/Inlamning-1-1.mpf
+# Loading project Inlamning-1-1
+# after#285
+# Compile of bcd99.vhd failed with 1 errors.
 # Compile of count4b.vhd was successful.
-vsim work.count4b
-# vsim work.count4b 
-# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
-# Loading std.standard
-# Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading ieee.std_logic_arith(body)
-# Loading ieee.std_logic_unsigned(body)
-# Loading work.count4b(arch)#1
-do runner.do
-do runner.do
-do runner.do
+# 2 compiles, 1 failed with 1 error. 

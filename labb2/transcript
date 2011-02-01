@@ -1,0 +1,158 @@
+# //  QuestaSim-64 6.5b May 21 2009 Linux 2.6.36-02063602-generic
+# //
+# //  Copyright 1991-2009 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading project Intro
+# Compile of intro.vhd was successful.
+vsim work.intro
+# vsim work.intro 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+do runnner.ro
+# Cannot open macro file: runnner.ro
+do runner.do
+# ** Error: Expected option after '-'
+# ** Error: (vish-4003) Invalid option '-'.
+# Usage: force [-freeze | -drive | -deposit] [-cancel <time>] [-repeat <time>] <object_name> <value> [<time>] [, <value> <time> ...]
+# Error in macro ./runner.do line 3
+# Expected option after '-'
+# ** Error: (vish-4003) Invalid option '-'.
+# Usage: force [-freeze | -drive | -deposit] [-cancel <time>] [-repeat <time>] <object_name> <value> [<time>] [, <value> <time> ...]
+#     while executing
+# "vsimcmd::force clk 0 0, 1 50 - repeat 50"
+#     ("uplevel" body line 1)
+#     invoked from within
+# "uplevel vsimcmd::force $args"
+#     (procedure "force" line 13)
+#     invoked from within
+# "force clk 0 0, 1 50 - repeat 50"
+do runner.do
+# ** Error: Unknown option: -
+# ** Error: (vish-4003) Invalid option '--'.
+# Usage: force [-freeze | -drive | -deposit] [-cancel <time>] [-repeat <time>] <object_name> <value> [<time>] [, <value> <time> ...]
+# Error in macro ./runner.do line 3
+# Unknown option: -
+# ** Error: (vish-4003) Invalid option '--'.
+# Usage: force [-freeze | -drive | -deposit] [-cancel <time>] [-repeat <time>] <object_name> <value> [<time>] [, <value> <time> ...]
+#     while executing
+# "vsimcmd::force clk 0 0, 1 50 -- repeat 50"
+#     ("uplevel" body line 1)
+#     invoked from within
+# "uplevel vsimcmd::force $args"
+#     (procedure "force" line 13)
+#     invoked from within
+# "force clk 0 0, 1 50 -- repeat 50"
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+do runner.do
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+vsim work.intro
+# vsim work.intro 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+do runner.do
+# Compile of intro.vhd was successful.
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+# Compile of intro.vhd was successful.
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+do runner.do
+# Load canceled
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+do runner.do
+# Compile of intro.vhd was successful.
+do runner.do
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd failed with 1 errors.
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+# Warning in wave window restart: (vish-4014) No objects found matching '/intro/pulson_inner'. 
+# Compile of intro.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1

@@ -2,33 +2,40 @@ m255
 K3
 13
 cModel Technology
-d/chalmers/users/oleander/VHDL/Projects
+Z0 d/chalmers/users/oleander/VHDL/Projects
+T_opt
+V4PoDDL6:kj5iIhGCRV`023
+04 5 4 work comp1 arch 1
+Z1 =1-0013d32bab3a-4d47af94-205d8-19f0
+Z2 o-quiet -auto_acc_if_foreign -work work
+Z3 n@_opt
+Z4 OL;O;6.5b;42
 Ecomp1
-Z0 w1296170070
-Z1 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
-Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
-Z3 d/chalmers/users/oleander/VHDL/Projects/compare-2-2-1
-Z4 8/chalmers/users/oleander/VHDL/Projects/compare-2-2-1/comp1.vhd
-Z5 F/chalmers/users/oleander/VHDL/Projects/compare-2-2-1/comp1.vhd
+Z5 w1296170070
+Z6 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z8 d/chalmers/users/oleander/VHDL/Projects/compare-2-2-1
+Z9 8/chalmers/users/oleander/VHDL/Projects/compare-2-2-1/comp1.vhd
+Z10 F/chalmers/users/oleander/VHDL/Projects/compare-2-2-1/comp1.vhd
 l0
 L5
-VG_n>e@Bi=WhG]@fPzYQeH2
-!s100 kWFR;]8e3Xm^6Jz:Tjd2n3
-Z6 OL;C;6.5b;42
+Z11 VG_n>e@Bi=WhG]@fPzYQeH2
+Z12 OL;C;6.5b;42
 32
-Z7 o-work work -2002 -explicit
-Z8 tExplicit 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Z15 !s100 kWFR;]8e3Xm^6Jz:Tjd2n3
 Aarch
-R1
-R2
-DEx4 work 5 comp1 0 22 G_n>e@Bi=WhG]@fPzYQeH2
+R6
+R7
+Z16 DEx4 work 5 comp1 0 22 G_n>e@Bi=WhG]@fPzYQeH2
 l14
 L12
-VeR0fMAERa7z<6X<9nebM>3
-!s100 a?Z0FoiYVX[Wk7P[5>nhK0
-R6
+Z17 VeR0fMAERa7z<6X<9nebM>3
+R12
 32
-Z9 Mx2 4 ieee 14 std_logic_1164
-Mx1 4 ieee 11 numeric_std
-R7
-R8
+Z18 Mx2 4 ieee 14 std_logic_1164
+Z19 Mx1 4 ieee 11 numeric_std
+R13
+R14
+Z20 !s100 a?Z0FoiYVX[Wk7P[5>nhK0

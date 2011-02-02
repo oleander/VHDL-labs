@@ -15,38 +15,34 @@ architecture arch of intro is
 begin
   sync : process (clk, reset)
   begin
-    if (reset = '1') then
+    if (reset = '1' and clk'event and clk = '1') then
       CS <= S0;
-      pulsoff <= '0';
-      pulson <= '0';
-    elsif (clk'event) then
+    elsif (clk'event and clk = '1') then
       CS <= NSE;
     end if;
   end process;
 
-  runner : process(clk, levin)
+  runner : process(CS, levin)
   begin
-    if (clk = '1') then
-      case CS is
-        when S0 =>
-          pulsoff <= '0';
+    
+    pulson  <= '0';
+    pulsoff <= '0';
+    
+    case CS is
+      when S0 =>
+        if (levin = '1') then
           NSE <= S1;
-        when S1 =>
-          if (levin = '1') then
-            pulson  <= '1';
-            NSE <= S2;
-          end if;
-        when S2 =>
-          if(levin = '0') then
-            pulson  <= '0';
-            NSE <= S3;
-          end if;
-        when S3 =>
-          if(levin = '0') then
-            pulsoff <= '1';
-            NSE <= S0;
-          end if;
-      end case;
-    end if;
+        end if;
+      when S1 =>
+        pulson  <= '1';
+        NSE <= S2;
+      when S2 =>
+        if(levin = '0') then
+          NSE <= S3;
+        end if;
+      when S3 =>
+        pulsoff <= '1';
+        NSE <= S0;
+    end case;
   end process;
 end architecture;  -- arch

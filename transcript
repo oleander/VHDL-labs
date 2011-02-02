@@ -8,9 +8,22 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-project open /chalmers/users/oleander/VHDL/Projects/labb2/assignment-1-1/Inlamning-1-1.mpf
-# Loading project Inlamning-1-1
-# after#285
-# Compile of bcd99.vhd failed with 1 errors.
-# Compile of count4b.vhd was successful.
-# 2 compiles, 1 failed with 1 error. 
+project open /chalmers/users/oleander/VHDL/Projects/labb2/intro/Intro.mpf
+# Loading project Intro
+# after#229
+# Compile of intro.vhd was successful.
+vsim work.intro
+# vsim work.intro 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.intro(arch)#1
+do runner.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do runner.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+# Compile of intro.vhd was successful.
+do runner.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf
+do runner.do
+# .main_pane.objects.interior.cs.body .main_pane.wave.interior.cs.body.pw.wf

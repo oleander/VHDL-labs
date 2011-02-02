@@ -4,38 +4,122 @@ K3
 cModel Technology
 Z0 d/chalmers/users/oleander/VHDL/Projects/labb2
 T_opt
-VkVR_TRSYn2l@6W:o_3Gb>2
-04 5 4 work intro arch 1
-Z1 =9-0013d32bab3a-4d496b04-70ec-33cd
-Z2 o-quiet -auto_acc_if_foreign -work work
-Z3 n@_opt
-Z4 OL;O;6.5b;42
+Z1 VRYC^eHE5;0B6:XY;fObX13
+Z2 04 5 4 work intro arch 1
+Z3 =10-0013d32bab3a-4d49772b-50024-33cd
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+T_opt1
+Z7 VZ;VDY@YdgX@a1S[MQG6Pz1
+Z8 04 6 4 work runner arch 1
+Z9 =90-0013d32bab3a-4d499e09-60c70-6267
+R4
+Z10 n@_opt1
+R6
+T_opt2
+Vcfj>T16:MLl0Qe@F=h7T03
+04 7 4 work counter arch 1
+Z11 =35-0013d32bab3a-4d49b18c-5a9d5-41b3
+R4
+Z12 n@_opt2
+R6
+Ecounter
+Z13 w1296675006
+Z14 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z16 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z17 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z18 d/chalmers/users/oleander/VHDL/Projects/labb2/intro
+Z19 8/chalmers/users/oleander/VHDL/Projects/labb2/intro/counter.vhd
+Z20 F/chalmers/users/oleander/VHDL/Projects/labb2/intro/counter.vhd
+l0
+L6
+Z21 V_]TQ2VYfm]@dIRnfc7YY]0
+Z22 OL;C;6.5b;42
+32
+Z23 o-work work -2002 -explicit
+Z24 tExplicit 1
+Z25 !s100 U>5dFB@hPb3a65A1926UN1
+Aarch
+R14
+R15
+R16
+R17
+Z26 DEx4 work 7 counter 0 22 _]TQ2VYfm]@dIRnfc7YY]0
+l22
+L13
+Z27 Vm=[QANg0<3PmWKTAH;57@2
+R22
+32
+Z28 Mx4 4 ieee 14 std_logic_1164
+Z29 Mx3 4 ieee 11 numeric_std
+Z30 Mx2 4 ieee 18 std_logic_unsigned
+Z31 Mx1 4 ieee 15 std_logic_arith
+R23
+R24
+Z32 !s100 @?`:h;BQ>4Moo0k>baM8`0
 Eintro
-Z5 w1296657146
-Z6 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
-Z7 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
-Z8 d/chalmers/users/oleander/VHDL/Projects/labb2/intro
-Z9 8/chalmers/users/oleander/VHDL/Projects/labb2/intro/intro.vhd
-Z10 F/chalmers/users/oleander/VHDL/Projects/labb2/intro/intro.vhd
+Z33 w1296657146
+R16
+R17
+R18
+Z34 8/chalmers/users/oleander/VHDL/Projects/labb2/intro/intro.vhd
+Z35 F/chalmers/users/oleander/VHDL/Projects/labb2/intro/intro.vhd
 l0
 L5
-Z11 V6O3c@koo`F4^HgZmRQ5J@1
-Z12 OL;C;6.5b;42
+Z36 V6O3c@koo`F4^HgZmRQ5J@1
+R22
 32
-Z13 o-work work -2002 -explicit
-Z14 tExplicit 1
-Z15 !s100 3i9hzUDB9hBk7HkZNG[J_1
+R23
+R24
+Z37 !s100 3i9hzUDB9hBk7HkZNG[J_1
 Aarch
-R6
-R7
-Z16 DEx4 work 5 intro 0 22 6O3c@koo`F4^HgZmRQ5J@1
+R16
+R17
+Z38 DEx4 work 5 intro 0 22 6O3c@koo`F4^HgZmRQ5J@1
 l15
 L12
-Z17 VdlYn9UZ3C`2::ND;5zfDR0
-R12
+Z39 VdlYn9UZ3C`2::ND;5zfDR0
+R22
 32
-Z18 Mx2 4 ieee 14 std_logic_1164
-Z19 Mx1 4 ieee 11 numeric_std
-R13
+Z40 Mx2 4 ieee 14 std_logic_1164
+Z41 Mx1 4 ieee 11 numeric_std
+R23
+R24
+Z42 !s100 g@mQeIg[`[>2;4b9:1afJ0
+Erunner
+Z43 w1296675199
 R14
-Z20 !s100 g@mQeIg[`[>2;4b9:1afJ0
+R15
+R16
+R17
+R18
+Z44 8/chalmers/users/oleander/VHDL/Projects/labb2/intro/a-2-1.vhd
+Z45 F/chalmers/users/oleander/VHDL/Projects/labb2/intro/a-2-1.vhd
+l0
+L6
+Z46 VYdoozc3Z=LF=`Hh;m8eVH2
+R22
+32
+R23
+R24
+Z47 !s100 ?Ej[BlBP2<OYU<8JeFD9]3
+Aarch
+R14
+R15
+R16
+R17
+Z48 DEx4 work 6 runner 0 22 Ydoozc3Z=LF=`Hh;m8eVH2
+l18
+L13
+Z49 VQhZVG0IGe2PDNOhQPg<el1
+R22
+32
+R28
+R29
+R30
+R31
+R23
+R24
+Z50 !s100 5R]]R:HBJj6XmR<B?>n>O3

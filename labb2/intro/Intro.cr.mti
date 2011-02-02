@@ -1,1 +1,19 @@
+/chalmers/users/oleander/VHDL/Projects/labb2/intro/intro.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/intro/intro.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity intro
+-- Compiling architecture arch of intro
 
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb2/intro/counter.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/intro/counter.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity counter
+-- Compiling architecture arch of counter
+
+} {} {}}

@@ -1,0 +1,28 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+use work.mypackage.all;
+
+entity ftr is
+  port (
+    clk, reset, t : in  std_logic;
+    q             : out std_logic
+    ) ;
+end entity;  -- ftr
+
+architecture arch of ftr is
+  signal i, q_inner : std_logic;
+begin
+  runner : process(clk)
+  begin
+    if(reset = '1' and clk = '1' and clk'event) then
+      q_inner <= '0';
+      i       <= '0';
+    else
+      q_inner <= q_inner xor i;
+      q       <= q_inner;
+    end if;
+  end process;
+  ss0 : fd port map(clk, t, i); -- Här är D-vippan
+  
+end architecture;  -- arch

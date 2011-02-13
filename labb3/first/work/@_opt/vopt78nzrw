@@ -1,0 +1,91 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/oleander/VHDL/Projects
+T_opt
+Z1 VA?FHizfjeXSU3Q8S`o>`:2
+Z2 04 5 4 work mealy arch 1
+Z3 =10-0013d32bab3a-4d583074-51f01-25d5
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+Efd
+Z7 w1297002168
+Z8 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z10 d/chalmers/users/oleander/VHDL/Projects/labb3/first
+Z11 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+Z12 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+l0
+L5
+Z13 V7ZnaBF;l7nAbCaU_YnfIE3
+Z14 OL;C;6.5b;42
+32
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1
+Z17 !s100 =nVh=YjJb1P<HE55k;GIN0
+Aarch
+R8
+R9
+Z18 DEx4 work 2 fd 0 22 7ZnaBF;l7nAbCaU_YnfIE3
+l14
+L12
+Z19 VV:IV3Z7z3Q`do302[Lb<A2
+R14
+32
+Z20 Mx2 4 ieee 14 std_logic_1164
+Z21 Mx1 4 ieee 11 numeric_std
+R15
+R16
+Z22 !s100 FngJ8NbBNWjMa?eD@bPO[1
+Emealy
+Z23 w1297625124
+Z24 DPx55 /chalmers/users/oleander/VHDL/Projects/labb3/first/work 9 mypackage 0 22 6fePo16mShTlWS3<nOKib3
+Z25 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z26 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+R10
+Z27 8/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+Z28 F/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+l0
+L6
+Z29 VzdoDZa:RXg6oUloiF`A??0
+R14
+R15
+R16
+Z30 !s100 3NbXJ31DaWA=YI_JGKPgn2
+Aarch
+Z31 DEx55 /chalmers/users/oleander/VHDL/Projects/labb3/first/work 2 fd 0 22 7ZnaBF;l7nAbCaU_YnfIE3
+R24
+R25
+R26
+Z32 DEx55 /chalmers/users/oleander/VHDL/Projects/labb3/first/work 5 mealy 0 22 zdoDZa:RXg6oUloiF`A??0
+32
+Z33 Mx3 17 __model_tech/ieee 14 std_logic_1164
+Z34 Mx2 17 __model_tech/ieee 11 numeric_std
+Z35 Mx1 55 /chalmers/users/oleander/VHDL/Projects/labb3/first/work 9 mypackage
+l17
+L14
+Z36 VzR0obGN6STNLG48E4Zfb[3
+R14
+R15
+R16
+Z37 !s100 b4M_aVf8L5[5zlV>CYXc@0
+Pmypackage
+R25
+R26
+32
+Z38 Mx2 17 __model_tech/ieee 14 std_logic_1164
+Z39 Mx1 17 __model_tech/ieee 11 numeric_std
+Z40 w1296998190
+R10
+Z41 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+Z42 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+l0
+L5
+Z43 V6fePo16mShTlWS3<nOKib3
+R14
+R15
+R16
+Z44 !s100 AQS9oAebBG2EQPA:;Z1:=1

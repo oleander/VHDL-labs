@@ -1,0 +1,28 @@
+/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling package mypackage
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity fd
+-- Compiling architecture arch of fd
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/bcd59.vhd {2 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/bcd59.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Compiling architecture arch of bcd59
+** Warning: (vcom-6) -- Waiting for lock by "oleander@remote1.student.chalmers.se". Lockfile is "/chalmers/users/oleander/VHDL/Projects/labb3/first/work/_lock".
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity bcd59
+-- Compiling architecture arch of bcd59
+
+} {} {}}

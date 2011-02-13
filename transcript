@@ -8,4 +8,11 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-# Loading project Intro
+# Loading project Labb3
+# error on action  Project::Action returned error: 
+# can't read "ret_list": no such variable 
+#  Trace back: 
+# function is Project::Action copy 
+# 
+#  
+#    1: ::.vcop Action copy 

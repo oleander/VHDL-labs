@@ -1,4 +1,11 @@
-/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling package mypackage
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
@@ -6,16 +13,13 @@ QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Compiling entity fd
 -- Compiling architecture arch of fd
 
-} {} {}} /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/ftr.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/ftr.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Loading package numeric_std
--- Compiling package mypackage
+-- Loading package mypackage
+-- Compiling entity ftr
+-- Compiling architecture arch of ftr
 
-} {} {}} /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fjr.vhd {0 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fjr.vhd
-QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
--- Loading package standard
-** Error: /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fjr.vhd(2): near "EOF": syntax error
-
-} {4.0 5.0} {}}
+} {} {}}

@@ -8,21 +8,12 @@ entity ftr is
     clk, reset, t : in  std_logic;
     q             : out std_logic
     ) ;
-end entity;  -- ftr
+end entity;
 
 architecture arch of ftr is
-  signal i, q_inner : std_logic;
+  signal q_inner, i : std_logic;
 begin
-  runner : process(clk)
-  begin
-    if(reset = '1' and clk = '1' and clk'event) then
-      q_inner <= '0';
-      i       <= '0';
-    else
-      q_inner <= q_inner xor i;
-      q       <= q_inner;
-    end if;
-  end process;
-  ss0 : fd port map(clk, t, i); -- Här är D-vippan
-  
-end architecture;  -- arch
+  i <= '1' when reset = '1' else (q_inner xor t);
+  ss0 : fd port map(clk, i, q_inner);
+  q <= q_inner;
+end architecture;

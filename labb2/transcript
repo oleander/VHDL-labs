@@ -390,3 +390,303 @@ do runner.do
 # Loading ieee.numeric_std(body)
 # Loading work.mypackage
 # Loading work.ftr(arch)#1
+# Compile of ftr.vhd failed with 1 errors.
+# Compile of ftr.vhd was successful with warnings.
+# Compile of ftr.vhd was successful with warnings.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Warning in wave window restart: (vish-4014) No objects found matching '/ftr/i'. 
+# Compile of ftr.vhd failed with 1 errors.
+# Compile of ftr.vhd failed with 2 errors.
+# Compile of ftr.vhd failed with 2 errors.
+# Compile of ftr.vhd failed with 1 errors.
+# Compile of ftr.vhd failed with 1 errors.
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd failed with 1 errors.
+# Compile of ftr.vhd was successful.
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd failed with 1 errors.
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd failed with 1 errors.
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of ftr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# Compile of fd.vhd was successful.
+# Compile of ftr.vhd was successful.
+# Compile of fjr.vhd failed with 1 errors.
+# Compile of mypackage.vhd was successful.
+# 4 compiles, 1 failed with 1 error. 
+# Compile of fjr.vhd failed with 1 errors.
+# Compile of fjr.vhd failed with 1 errors.
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.ftr(arch)#1
+# ** Error: (vish-4008) Object 'j' not found.
+# Error in macro ./runner.do line 5
+# ** Error: (vish-4008) Object 'j' not found.
+# 
+#     while executing
+# "vsimcmd::force j 1 0, 0 300 -repeat 600"
+#     ("uplevel" body line 1)
+#     invoked from within
+# "uplevel vsimcmd::force $args"
+#     (procedure "force" line 13)
+#     invoked from within
+# "force j 1 0, 0 300 -repeat 600"
+vsim work.fjr
+# vsim work.fjr 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+vsim work.fjr
+# vsim work.fjr 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+do runner.do
+# ** Error: (vish-4008) Object 'reset' not found.
+# Error in macro ./runner.do line 4
+# ** Error: (vish-4008) Object 'reset' not found.
+# 
+#     while executing
+# "vsimcmd::force reset 1 0, 0 100"
+#     ("uplevel" body line 1)
+#     invoked from within
+# "uplevel vsimcmd::force $args"
+#     (procedure "force" line 13)
+#     invoked from within
+# "force reset 1 0, 0 100"
+do runner.do
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# ** Error: Invalid time value: # 0
+# Error in macro ./runner.do line 5
+# Invalid time value: # 0Invalid time value: # 0
+#     while executing
+# "mti_force j 1 # 0, 0 300 -repeat 600"
+#     invoked from within
+# "vsimcmd::force j 1 # 0, 0 300 -repeat 600"
+#     ("uplevel" body line 1)
+#     invoked from within
+# "uplevel vsimcmd::force $args"
+#     (procedure "force" line 13)
+#     invoked from within
+# "force j 1 # 0, 0 300 -repeat 600"
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1

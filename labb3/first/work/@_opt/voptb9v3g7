@@ -364,9 +364,9 @@ R39
 R16
 R2
 30
-Z42 Mx3 4 ieee 14 std_logic_1164
+Mx3 4 ieee 14 std_logic_1164
 Mx2 4 ieee 12 vital_timing
-Z43 Mx1 3 std 6 textio
+Z42 Mx1 3 std 6 textio
 R4
 8vhdl_src/vital95/prmtvs_b.vhd
 Fvhdl_src/vital95/prmtvs_b.vhd
@@ -403,7 +403,7 @@ R16
 R2
 30
 R25
-R43
+R42
 R4
 8vhdl_src/vital95/timing_b.vhd
 Fvhdl_src/vital95/timing_b.vhd

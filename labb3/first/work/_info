@@ -4,226 +4,261 @@ K3
 cModel Technology
 Z0 d/chalmers/users/oleander/VHDL/Projects
 T_opt
-Z1 VA?FHizfjeXSU3Q8S`o>`:2
-Z2 04 5 4 work mealy arch 1
-Z3 =10-0013d32bab3a-4d583074-51f01-25d5
-Z4 o-quiet -auto_acc_if_foreign -work work
-Z5 n@_opt
-Z6 OL;O;6.5b;42
+V2ZBW:N7:lWVW9<UWhK1H00
+04 5 4 work bcd59 arch 1
+=5-0013d32bab3a-4d5a9c81-80e7-24bd
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;6.5b;42
 T_opt1
-Z7 V<jliB^6NB]1Y=AbD7zQeP1
-Z8 04 8 4 work tb1mealy test 1
-Z9 =28-0013d32bab3a-4d5a8ba5-678fb-2e3e
-R4
-Z10 n@_opt1
-R6
+V<jliB^6NB]1Y=AbD7zQeP1
+04 8 4 work tb1mealy test 1
+=28-0013d32bab3a-4d5a8ba5-678fb-2e3e
+R1
+n@_opt1
+R2
 T_opt2
 VKizLIf2=kg6X0[Q:8lY]z1
-Z11 04 8 4 work tb2mealy arch 1
-Z12 =8-0013d32bab3a-4d5a8c4b-3f1cb-76c7
-R4
-Z13 n@_opt2
-R6
+04 8 4 work tb2mealy arch 1
+=8-0013d32bab3a-4d5a8c4b-3f1cb-76c7
+R1
+n@_opt2
+R2
 Ebcd59
-Z14 w1297629674
-Z15 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
-Z16 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
-Z17 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
-Z18 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
-Z19 d/chalmers/users/oleander/VHDL/Projects/labb3/first
-Z20 8/chalmers/users/oleander/VHDL/Projects/labb3/first/23bcd.vhd
-Z21 F/chalmers/users/oleander/VHDL/Projects/labb3/first/23bcd.vhd
+Z3 w1297629674
+Z4 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z6 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z8 d/chalmers/users/oleander/VHDL/Projects/labb3/first
+Z9 8/chalmers/users/oleander/VHDL/Projects/labb3/first/23bcd.vhd
+Z10 F/chalmers/users/oleander/VHDL/Projects/labb3/first/23bcd.vhd
 l0
 L6
-Z22 V^O6kGHP7W@h7KTbRS^^641
-Z23 OL;C;6.5b;42
+V^O6kGHP7W@h7KTbRS^^641
+Z11 OL;C;6.5b;42
 32
-Z24 o-work work -2002 -explicit
-Z25 tExplicit 1
-Z26 !s100 QJ?JS[X2LQ>e;X8jD<Vm>0
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+!s100 QJ?JS[X2LQ>e;X8jD<Vm>0
 Aarch
-R15
-R16
-R17
-R18
-Z27 DEx4 work 5 bcd59 0 22 ^O6kGHP7W@h7KTbRS^^641
+R4
+R5
+R6
+R7
+DEx4 work 5 bcd59 0 22 ^O6kGHP7W@h7KTbRS^^641
 l21
 L16
-Z28 VEhhhkg`E4Z_DDm@`h`H@43
-R23
+VEhhhkg`E4Z_DDm@`h`H@43
+R11
 32
-Z29 Mx4 4 ieee 14 std_logic_1164
-Z30 Mx3 4 ieee 11 numeric_std
-Z31 Mx2 4 ieee 18 std_logic_unsigned
-Z32 Mx1 4 ieee 15 std_logic_arith
-R24
-R25
-Z33 !s100 ZAz39XQNkCRQ006neih;O3
-Efd
-Z34 w1297002168
-R17
-R18
-R19
-Z35 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
-Z36 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
-l0
-L5
-Z37 V7ZnaBF;l7nAbCaU_YnfIE3
-R23
-32
-R24
-R25
-Z38 !s100 =nVh=YjJb1P<HE55k;GIN0
-Aarch
-R17
-R18
-Z39 DEx4 work 2 fd 0 22 7ZnaBF;l7nAbCaU_YnfIE3
-l14
-L12
-Z40 VV:IV3Z7z3Q`do302[Lb<A2
-R23
-32
-Z41 Mx2 4 ieee 14 std_logic_1164
-Z42 Mx1 4 ieee 11 numeric_std
-R24
-R25
-Z43 !s100 FngJ8NbBNWjMa?eD@bPO[1
-Egenhz
-Z44 w1297631399
-R15
-R16
-R17
-R18
-R19
-Z45 8/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
-Z46 F/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+Z14 Mx4 4 ieee 14 std_logic_1164
+Z15 Mx3 4 ieee 11 numeric_std
+Z16 Mx2 4 ieee 18 std_logic_unsigned
+Z17 Mx1 4 ieee 15 std_logic_arith
+R12
+R13
+!s100 ZAz39XQNkCRQ006neih;O3
+Edrill
+Z18 w1297791828
+R4
+R5
+R6
+R7
+R8
+Z19 8/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
+Z20 F/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
 l0
 L6
-Z47 VDFi7@G<Z3W_B2P7M47=341
-R23
+VkLYYa4?V?=7Gm?a=Qh[Ze2
+!s100 Q]`;=9N7@KGMh;]GL0lc;3
+R11
 32
-R24
-R25
-Z48 !s100 Q=GPa1Y<[2<g_G^28P>O^2
+R12
+R13
 Aarch
+R4
+R5
+R6
+R7
+Z21 DEx4 work 5 drill 0 22 kLYYa4?V?=7Gm?a=Qh[Ze2
+l17
+L12
+V_>MS:GXIcldclg=zme;g71
+!s100 4`>N4@TX0jA:bbWk1]<Pg0
+R11
+32
+R14
 R15
 R16
 R17
-R18
-Z49 DEx4 work 5 genhz 0 22 DFi7@G<Z3W_B2P7M47=341
+R12
+R13
+Efd
+Z22 w1297002168
+R6
+R7
+R8
+Z23 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+Z24 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+l0
+L5
+V7ZnaBF;l7nAbCaU_YnfIE3
+R11
+32
+R12
+R13
+!s100 =nVh=YjJb1P<HE55k;GIN0
+Aarch
+R6
+R7
+DEx4 work 2 fd 0 22 7ZnaBF;l7nAbCaU_YnfIE3
+l14
+L12
+VV:IV3Z7z3Q`do302[Lb<A2
+R11
+32
+Z25 Mx2 4 ieee 14 std_logic_1164
+Z26 Mx1 4 ieee 11 numeric_std
+R12
+R13
+!s100 FngJ8NbBNWjMa?eD@bPO[1
+Egenhz
+Z27 w1297631399
+R4
+R5
+R6
+R7
+R8
+Z28 8/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+Z29 F/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+l0
+L6
+VDFi7@G<Z3W_B2P7M47=341
+R11
+32
+R12
+R13
+!s100 Q=GPa1Y<[2<g_G^28P>O^2
+Aarch
+R4
+R5
+R6
+R7
+DEx4 work 5 genhz 0 22 DFi7@G<Z3W_B2P7M47=341
 l14
 L13
-Z50 V6F=WAYi3h`amK[=G2?l1n0
-R23
+V6F=WAYi3h`amK[=G2?l1n0
+R11
 32
-R29
-R30
-R31
-R32
-R24
-R25
-Z51 !s100 <k8gzD84BWmeZfBVALKGl1
-Emealy
-Z52 w1297774833
+R14
+R15
+R16
 R17
-R18
-R19
-Z53 8/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
-Z54 F/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+R12
+R13
+!s100 <k8gzD84BWmeZfBVALKGl1
+Emealy
+Z30 w1297774833
+R6
+R7
+R8
+Z31 8/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+Z32 F/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
 l0
 L5
-Z55 VCnXNe`fkZY9V^_QQ6H3md3
-R23
+VCnXNe`fkZY9V^_QQ6H3md3
+R11
 32
-R24
-R25
-Z56 !s100 3^cCYTLY:8?Dn5_O<lFh52
+R12
+R13
+!s100 3^cCYTLY:8?Dn5_O<lFh52
 Aarch
-R17
-R18
-Z57 DEx4 work 5 mealy 0 22 CnXNe`fkZY9V^_QQ6H3md3
+R6
+R7
+DEx4 work 5 mealy 0 22 CnXNe`fkZY9V^_QQ6H3md3
 l15
 L13
-Z58 VE=ZK___mi`KAIX32H?6243
-R23
+VE=ZK___mi`KAIX32H?6243
+R11
 32
-R41
-R42
-R24
 R25
-Z59 !s100 OURQiQBYezcSI51[gbk9K3
+R26
+R12
+R13
+!s100 OURQiQBYezcSI51[gbk9K3
 Pmypackage
-R17
-R18
-Z60 w1296998190
-R19
-Z61 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
-Z62 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+R6
+R7
+w1296998190
+R8
+8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
 l0
 L5
-Z63 V6fePo16mShTlWS3<nOKib3
-R23
+V6fePo16mShTlWS3<nOKib3
+R11
 32
-R41
-R42
-R24
 R25
-Z64 !s100 AQS9oAebBG2EQPA:;Z1:=1
+R26
+R12
+R13
+!s100 AQS9oAebBG2EQPA:;Z1:=1
 Etb1mealy
-Z65 w1297778548
-R17
-R18
-R19
-Z66 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
-Z67 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
+Z33 w1297778548
+R6
+R7
+R8
+Z34 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
+Z35 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
 l0
 L5
-Z68 VTDll`fcUNd0^325gcG2iS0
-R23
+VTDll`fcUNd0^325gcG2iS0
+R11
 32
-R24
-R25
-Z69 !s100 XLf9[TKa1S>6G67gC4Wg70
+R12
+R13
+!s100 XLf9[TKa1S>6G67gC4Wg70
 Atest
-R17
-R18
-Z70 DEx4 work 8 tb1mealy 0 22 TDll`fcUNd0^325gcG2iS0
+R6
+R7
+DEx4 work 8 tb1mealy 0 22 TDll`fcUNd0^325gcG2iS0
 l22
 L11
-Z71 V_aD;[^SVER:EdZe4UX:Jz3
-R23
+V_aD;[^SVER:EdZe4UX:Jz3
+R11
 32
-R41
-R42
-R24
 R25
-Z72 !s100 GQf=oQdMQizXoaQX1]^>N3
+R26
+R12
+R13
+!s100 GQf=oQdMQizXoaQX1]^>N3
 Etb2mealy
-Z73 w1297779776
-R17
-R18
-R19
-Z74 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
-Z75 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+Z36 w1297779801
+R6
+R7
+R8
+Z37 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+Z38 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
 l0
 L5
-Z76 V>D904mY^[LFWg2lFPM7:=2
-R23
+V>D904mY^[LFWg2lFPM7:=2
+R11
 32
-R24
-R25
-Z77 !s100 75E^kS18=AEW;CAodN7Tn0
+R12
+R13
+!s100 75E^kS18=AEW;CAodN7Tn0
 Aarch
-R17
-R18
-Z78 DEx4 work 8 tb2mealy 0 22 >D904mY^[LFWg2lFPM7:=2
+R6
+R7
+DEx4 work 8 tb2mealy 0 22 >D904mY^[LFWg2lFPM7:=2
 l22
 L9
-Z79 VhW:a`;<Ci4_0@7=Bli?Lb3
-R23
+VacfJVgE?dhCLd]lS2T0W62
+!s100 LnOY968Z?^V2igYSRaZc33
+R11
 32
-R41
-R42
-R24
 R25
-Z80 !s100 `7gk30bK?RBON?W_PWU^Y3
+R26
+R12
+R13

@@ -21,6 +21,15 @@ architecture arch of bcd59 is
 begin
   runner : process(ce, clk)
   begin
+    -- Kommer vi ramla över kanten?
+    if(clk'event and clk = '1') then
+      if(inner_counter_high = "0101" and inner_counter_low = "1001") then
+        ceo <= '1';
+      else
+        ceo <= '0';
+      end if;
+    end if;
+    
     if(clk'event and clk = '1') then
       if(reset = '1') then
         
@@ -30,8 +39,6 @@ begin
         ceo                <= '0';
         
       elsif(ce = '1') then
-        ceo <= '0';
-
         if(inner_counter_low = "1001") then  -- Nästa steg ramlar vi över kanten
           inner_counter_low <= "0000";
           if(inner_counter_high = "0101") then  -- Nästa steg ramlar vi över kanten
@@ -41,11 +48,6 @@ begin
           end if;
         else
           inner_counter_low <= inner_counter_low + 1;
-        end if;
-        
-        -- Kommer vi ramla över kanten?
-        if(inner_counter_high = "0101" and inner_counter_low = "1001") then
-          ceo <= '1';
         end if;
         
       end if;

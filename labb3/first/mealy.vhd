@@ -11,28 +11,28 @@ entity mealy is
 end mealy;
 
 architecture arch of mealy is
-  signal qn, pqn: std_logic_vector(1 downto 0);
+  signal qn, qpn : std_logic_vector(1 downto 0);
 begin
 
-  runner: process(clk)
-    begin
-    if(clk = '1') then
-      if(reset = '0') then
+  runner : process(clk, reset)
+  begin
+    if(clk = '1' and clk'event) then
+      if(reset = '1') then
         qn <= "00";
       else
         qn <= qpn;
       end if;
     end if;
   end process;
-    
-  calc: process(qn, x) then
+
+  calc : process(qn, x)
   begin
-    pqn(1) <= ((not x(0)) and (not x(1)) and qn(0)) or (qn(1) and qn(0) and x(1) and x(0));
-    pqn(0) <= (not x(1)) and (not x(0));
+    qpn(1) <= ((not x(0)) and (not x(1)) and qn(0)) or (qn(1) and qn(0) and x(1) and x(0));
+    qpn(0) <= (not x(1)) and (not x(0));
     u      <= (not qn(1)) or (not qn(0)) or (not x(1)) or x(0);
   end process;
-  
-  qp <= pqn;
-  p <= pqn;
+
+  qp <= qpn;
+  q  <= qn;
   
 end architecture;  -- arch

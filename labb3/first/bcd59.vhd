@@ -36,13 +36,18 @@ begin
           inner_counter_low <= "0000";
           if(inner_counter_high = "0101") then  -- Nästa steg ramlar vi över kanten
             inner_counter_high <= "0000";
-            ceo                <= '1';
           else
             inner_counter_high <= inner_counter_high + 1;
           end if;
         else
           inner_counter_low <= inner_counter_low + 1;
         end if;
+        
+        -- Kommer vi ramla över kanten?
+        if(inner_counter_high = "0101" and inner_counter_low = "1001") then
+          ceo <= '1';
+        end if;
+        
       end if;
     end if;
   end process;

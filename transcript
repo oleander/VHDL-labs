@@ -8,11 +8,89 @@
 # //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
 # //  AND IS SUBJECT TO LICENSE TERMS.
 # //
-# Loading project Labb3
-# error on action  Project::Action returned error: 
-# can't read "ret_list": no such variable 
-#  Trace back: 
-# function is Project::Action copy 
-# 
-#  
-#    1: ::.vcop Action copy 
+project open /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/assignment-2-3.mpf
+# Loading project assignment-2-3
+# after#208
+# Compile of fjr.vhd was successful.
+vsim work.fjr
+# vsim work.fjr 
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+do runner.do
+# Compile of fd.vhd was successful.
+# Compile of ftr.vhd was successful.
+# Compile of fjr.vhd was successful.
+# Compile of mypackage.vhd was successful.
+# 4 compiles, 0 failed with no errors. 
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# ** Error: (vsim-3601) Iteration limit reached at time 100 ns.
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# ** Error: (vsim-3601) Iteration limit reached at time 100 ns.
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# ** Error: (vsim-3601) Iteration limit reached at time 100 ns.
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# ** Error: (vsim-3601) Iteration limit reached at time 100 ns.
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.
+do runner.do
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.mypackage
+# Loading work.fjr(arch)#1
+# Compile of fjr.vhd was successful.

@@ -70,27 +70,27 @@ Z21 F/chalmers/users/oleander/VHDL/Projects/labb3/first/clock.vhd
 l0
 L6
 V;8XCHMIBcmWO3YbP1LZg72
-!s100 O5mdXP]eP8[jNg<O9HJBF0
 R11
 32
 R12
 R13
+!s100 O5mdXP]eP8[jNg<O9HJBF0
 Aarch
 R19
 R6
 R7
-Z22 DEx4 work 5 clock 0 22 ;8XCHMIBcmWO3YbP1LZg72
+DEx4 work 5 clock 0 22 ;8XCHMIBcmWO3YbP1LZg72
 l16
 L13
 Vmj:08UzXOeaj5IF0n4AjN1
-!s100 GlfOUVT78M@<llTFZ=jJO3
 R11
 32
-Z23 Mx3 4 ieee 14 std_logic_1164
-Z24 Mx2 4 ieee 11 numeric_std
-Z25 Mx1 4 work 10 components
+Z22 Mx3 4 ieee 14 std_logic_1164
+Mx2 4 ieee 11 numeric_std
+Mx1 4 work 10 components
 R12
 R13
+!s100 GlfOUVT78M@<llTFZ=jJO3
 Pcomponents
 R6
 R7
@@ -103,20 +103,20 @@ L5
 V1@m_SH=eB[eIQPg_]4cF32
 R11
 32
-Z26 Mx2 4 ieee 14 std_logic_1164
-Z27 Mx1 4 ieee 11 numeric_std
+Z23 Mx2 4 ieee 14 std_logic_1164
+Z24 Mx1 4 ieee 11 numeric_std
 R12
 R13
 !s100 2Y35L?^D4?4VR9=?eFUl33
 Edrill
-Z28 w1297791828
+Z25 w1297791828
 R4
 R5
 R6
 R7
 R8
-Z29 8/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
-Z30 F/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
+Z26 8/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
+Z27 F/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
 l0
 L6
 VkLYYa4?V?=7Gm?a=Qh[Ze2
@@ -143,13 +143,42 @@ R17
 R12
 R13
 !s100 4`>N4@TX0jA:bbWk1]<Pg0
-Efd
-Z31 w1297002168
+Eencoder
+Z28 w1297876188
 R6
 R7
 R8
-Z32 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
-Z33 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+Z29 8/chalmers/users/oleander/VHDL/Projects/labb3/first/encoder.vhd
+Z30 F/chalmers/users/oleander/VHDL/Projects/labb3/first/encoder.vhd
+l0
+L5
+VIXV675YSZUWd7>Fh`BRd82
+!s100 7zHFcQMIg9ENK_S<<lm8J3
+R11
+32
+R12
+R13
+Aarch
+R6
+R7
+Z31 DEx4 work 7 encoder 0 22 IXV675YSZUWd7>Fh`BRd82
+l18
+L13
+Z32 VN?zJ8RK8diF[R?D@98QiI3
+Z33 !s100 ^i10Mj8[@VX9`Q?QSiocP1
+R11
+32
+R23
+R24
+R12
+R13
+Efd
+Z34 w1297002168
+R6
+R7
+R8
+Z35 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+Z36 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
 l0
 L5
 V7ZnaBF;l7nAbCaU_YnfIE3
@@ -167,20 +196,20 @@ L12
 VV:IV3Z7z3Q`do302[Lb<A2
 R11
 32
-R26
-R27
+R23
+R24
 R12
 R13
 !s100 FngJ8NbBNWjMa?eD@bPO[1
 Egenhz
-Z34 w1297631399
+Z37 w1297631399
 R4
 R5
 R6
 R7
 R8
-Z35 8/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
-Z36 F/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+Z38 8/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+Z39 F/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
 l0
 L6
 VDFi7@G<Z3W_B2P7M47=341
@@ -208,12 +237,12 @@ R12
 R13
 !s100 <k8gzD84BWmeZfBVALKGl1
 Emealy
-Z37 w1297774833
+Z40 w1297774833
 R6
 R7
 R8
-Z38 8/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
-Z39 F/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+Z41 8/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+Z42 F/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
 l0
 L5
 VCnXNe`fkZY9V^_QQ6H3md3
@@ -231,8 +260,8 @@ L13
 VE=ZK___mi`KAIX32H?6243
 R11
 32
-R26
-R27
+R23
+R24
 R12
 R13
 !s100 OURQiQBYezcSI51[gbk9K3
@@ -248,18 +277,18 @@ L5
 V6fePo16mShTlWS3<nOKib3
 R11
 32
-R26
-R27
+R23
+R24
 R12
 R13
 !s100 AQS9oAebBG2EQPA:;Z1:=1
 Etb1mealy
-Z40 w1297778548
+Z43 w1297778548
 R6
 R7
 R8
-Z41 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
-Z42 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
+Z44 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
+Z45 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
 l0
 L5
 VTDll`fcUNd0^325gcG2iS0
@@ -277,18 +306,18 @@ L11
 V_aD;[^SVER:EdZe4UX:Jz3
 R11
 32
-R26
-R27
+R23
+R24
 R12
 R13
 !s100 GQf=oQdMQizXoaQX1]^>N3
 Etb2mealy
-Z43 w1297779801
+Z46 w1297779801
 R6
 R7
 R8
-Z44 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
-Z45 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+Z47 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+Z48 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
 l0
 L5
 V>D904mY^[LFWg2lFPM7:=2
@@ -306,8 +335,8 @@ L9
 VacfJVgE?dhCLd]lS2T0W62
 R11
 32
-R26
-R27
+R23
+R24
 R12
 R13
 !s100 LnOY968Z?^V2igYSRaZc33

@@ -5,13 +5,15 @@ QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package numeric_std
 -- Compiling package mypackage
 
-} {} {}} /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/23bcd.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/23bcd.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Loading package numeric_std
--- Compiling entity fd
--- Compiling architecture arch of fd
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity bcd59
+-- Compiling architecture arch of bcd59
 
 } {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/components.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/components.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
@@ -20,7 +22,50 @@ QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package numeric_std
 -- Compiling package components
 
-} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/23bcd.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/23bcd.vhd
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity tb2mealy
+-- Compiling architecture arch of tb2mealy
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity mealy
+-- Compiling architecture arch of mealy
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity fd
+-- Compiling architecture arch of fd
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity genhz
+-- Compiling architecture arch of genhz
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/clock.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/clock.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package components
+-- Compiling entity clock
+-- Compiling architecture arch of clock
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/bcd59.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/bcd59.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
@@ -38,40 +83,14 @@ QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Compiling entity tb1mealy
 -- Compiling architecture test of tb1mealy
 
-} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/bcd59.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/bcd59.vhd
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Loading package numeric_std
 -- Loading package std_logic_arith
 -- Loading package std_logic_unsigned
--- Compiling entity bcd59
--- Compiling architecture arch of bcd59
-
-} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
-QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
--- Loading package standard
--- Loading package std_logic_1164
--- Loading package numeric_std
--- Loading package std_logic_arith
--- Loading package std_logic_unsigned
--- Compiling entity genhz
--- Compiling architecture arch of genhz
-
-} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
-QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
--- Loading package standard
--- Loading package std_logic_1164
--- Loading package numeric_std
--- Compiling entity mealy
--- Compiling architecture arch of mealy
-
-} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
-QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
--- Loading package standard
--- Loading package std_logic_1164
--- Loading package numeric_std
--- Compiling entity tb2mealy
--- Compiling architecture arch of tb2mealy
+-- Compiling entity drill
+-- Compiling architecture arch of drill
 
 } {} {}}

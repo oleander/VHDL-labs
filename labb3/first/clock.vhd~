@@ -1,0 +1,39 @@
+library ieee ;
+  use ieee.std_logic_1164.all ;
+  use ieee.numeric_std.all ;
+  use work.components.all;
+  
+entity clock is
+  port (
+    inc_sec, inc_min, inc_h, show_sec, show_min, show_h, clock, reset: in std_logic;    
+    count : out std_logic_vector(7 downto 0)
+  ) ;
+end entity ; -- clock
+
+architecture arch of clock is
+  signal hz, ce_h, ce_m, ce_s, hz1, hz2, ceo_s, ceo_m, ceo_h, a: std_logic;
+  signal count_sec, count_min, count_h: std_logic_vector(7 downto 0) ;;
+begin
+  
+  hz <= hz1 when (inc_min or inc_h or inc_sec) = '1' else hz2;
+  a <= not inc_sec and not inc_min and not inc_h;
+  
+  hz_generator : genhz port map(clock, hz1, hz2);
+  
+  sec : bcd59 port map(clock, reset, ce_s, count_sec, ceo_s);
+  ce_s <= not inc_min and not inc_h and hz;  
+  
+  min : bcd59 port map(clock, reset, ce_m, count_min, ceo_m);
+  ce_m <= (a and ceo_s) or (not inc_sec and not inc_min and inc_h and hz);
+
+  hour : bcd23 port map(clock, reset, ce_h, count_h, ceo_h);
+  ce_h <= (a and ceo_m) or (hz and not inc_sec and not inc_min and inc_h);
+  
+            
+  count <= count_h when show_h = '1' else
+           count_min when show_min = '1' else
+          count_sec when show_sec = '1' else
+            (others => '0');
+  
+  
+end architecture ; -- arch

@@ -3,7 +3,7 @@ use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 use ieee.std_logic_unsigned.all;
 
-entity bcd59 is
+entity bcd23 is
   port(
     clk   : in  std_logic;
     reset : in  std_logic;
@@ -13,13 +13,22 @@ entity bcd59 is
     );
 end entity;  -- 
 
-architecture arch of bcd59 is
+architecture arch of bcd23 is
   -- {inner_counter_high} räknar 0 till 2
   -- {inner_counter_low} räknar 0 till 3
   
   signal inner_counter_high, inner_counter_low : std_logic_vector(3 downto 0);
 begin
   runner : process(ce, clk)
+  
+  if(clk'event and clk = '1') then
+    if(inner_counter_high = "0010" and inner_counter_low = "0011") then
+      ceo <= '1';
+    else
+      ceo <= '0';
+    end if;
+  end if;
+  
   begin
     if(clk'event and clk = '1') then
       if(reset = '1') then
@@ -30,8 +39,6 @@ begin
         ceo                <= '0';
         
       elsif(ce = '1') then
-        ceo <= '0';
-
         if(inner_counter_low = "0011") then  -- Nästa steg ramlar vi över kanten
           inner_counter_low <= "0000";
           if(inner_counter_high = "0010") then  -- Nästa steg ramlar vi över kanten

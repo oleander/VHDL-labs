@@ -59,33 +59,81 @@ Z17 Mx1 4 ieee 15 std_logic_arith
 R12
 R13
 !s100 ZAz39XQNkCRQ006neih;O3
-Edrill
-Z18 w1297791828
-R4
-R5
+Eclock
+Z18 w1297871986
+Z19 DPx4 work 10 components 0 22 1@m_SH=eB[eIQPg_]4cF32
 R6
 R7
 R8
-Z19 8/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
-Z20 F/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
+Z20 8/chalmers/users/oleander/VHDL/Projects/labb3/first/clock.vhd
+Z21 F/chalmers/users/oleander/VHDL/Projects/labb3/first/clock.vhd
 l0
 L6
-VkLYYa4?V?=7Gm?a=Qh[Ze2
-!s100 Q]`;=9N7@KGMh;]GL0lc;3
+V;8XCHMIBcmWO3YbP1LZg72
+!s100 O5mdXP]eP8[jNg<O9HJBF0
 R11
 32
 R12
 R13
 Aarch
+R19
+R6
+R7
+Z22 DEx4 work 5 clock 0 22 ;8XCHMIBcmWO3YbP1LZg72
+l16
+L13
+Vmj:08UzXOeaj5IF0n4AjN1
+!s100 GlfOUVT78M@<llTFZ=jJO3
+R11
+32
+Z23 Mx3 4 ieee 14 std_logic_1164
+Z24 Mx2 4 ieee 11 numeric_std
+Z25 Mx1 4 work 10 components
+R12
+R13
+Pcomponents
+R6
+R7
+w1297868582
+R8
+8/chalmers/users/oleander/VHDL/Projects/labb3/first/components.vhd
+F/chalmers/users/oleander/VHDL/Projects/labb3/first/components.vhd
+l0
+L5
+V1@m_SH=eB[eIQPg_]4cF32
+R11
+32
+Z26 Mx2 4 ieee 14 std_logic_1164
+Z27 Mx1 4 ieee 11 numeric_std
+R12
+R13
+!s100 2Y35L?^D4?4VR9=?eFUl33
+Edrill
+Z28 w1297791828
 R4
 R5
 R6
 R7
-Z21 DEx4 work 5 drill 0 22 kLYYa4?V?=7Gm?a=Qh[Ze2
+R8
+Z29 8/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
+Z30 F/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
+l0
+L6
+VkLYYa4?V?=7Gm?a=Qh[Ze2
+R11
+32
+R12
+R13
+!s100 Q]`;=9N7@KGMh;]GL0lc;3
+Aarch
+R4
+R5
+R6
+R7
+DEx4 work 5 drill 0 22 kLYYa4?V?=7Gm?a=Qh[Ze2
 l17
 L12
 V_>MS:GXIcldclg=zme;g71
-!s100 4`>N4@TX0jA:bbWk1]<Pg0
 R11
 32
 R14
@@ -94,13 +142,14 @@ R16
 R17
 R12
 R13
+!s100 4`>N4@TX0jA:bbWk1]<Pg0
 Efd
-Z22 w1297002168
+Z31 w1297002168
 R6
 R7
 R8
-Z23 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
-Z24 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+Z32 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+Z33 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
 l0
 L5
 V7ZnaBF;l7nAbCaU_YnfIE3
@@ -118,20 +167,20 @@ L12
 VV:IV3Z7z3Q`do302[Lb<A2
 R11
 32
-Z25 Mx2 4 ieee 14 std_logic_1164
-Z26 Mx1 4 ieee 11 numeric_std
+R26
+R27
 R12
 R13
 !s100 FngJ8NbBNWjMa?eD@bPO[1
 Egenhz
-Z27 w1297631399
+Z34 w1297631399
 R4
 R5
 R6
 R7
 R8
-Z28 8/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
-Z29 F/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+Z35 8/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+Z36 F/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
 l0
 L6
 VDFi7@G<Z3W_B2P7M47=341
@@ -159,12 +208,12 @@ R12
 R13
 !s100 <k8gzD84BWmeZfBVALKGl1
 Emealy
-Z30 w1297774833
+Z37 w1297774833
 R6
 R7
 R8
-Z31 8/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
-Z32 F/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+Z38 8/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+Z39 F/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
 l0
 L5
 VCnXNe`fkZY9V^_QQ6H3md3
@@ -182,8 +231,8 @@ L13
 VE=ZK___mi`KAIX32H?6243
 R11
 32
-R25
 R26
+R27
 R12
 R13
 !s100 OURQiQBYezcSI51[gbk9K3
@@ -199,18 +248,18 @@ L5
 V6fePo16mShTlWS3<nOKib3
 R11
 32
-R25
 R26
+R27
 R12
 R13
 !s100 AQS9oAebBG2EQPA:;Z1:=1
 Etb1mealy
-Z33 w1297778548
+Z40 w1297778548
 R6
 R7
 R8
-Z34 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
-Z35 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
+Z41 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
+Z42 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
 l0
 L5
 VTDll`fcUNd0^325gcG2iS0
@@ -228,18 +277,18 @@ L11
 V_aD;[^SVER:EdZe4UX:Jz3
 R11
 32
-R25
 R26
+R27
 R12
 R13
 !s100 GQf=oQdMQizXoaQX1]^>N3
 Etb2mealy
-Z36 w1297779801
+Z43 w1297779801
 R6
 R7
 R8
-Z37 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
-Z38 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+Z44 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+Z45 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
 l0
 L5
 V>D904mY^[LFWg2lFPM7:=2
@@ -255,10 +304,10 @@ DEx4 work 8 tb2mealy 0 22 >D904mY^[LFWg2lFPM7:=2
 l22
 L9
 VacfJVgE?dhCLd]lS2T0W62
-!s100 LnOY968Z?^V2igYSRaZc33
 R11
 32
-R25
 R26
+R27
 R12
 R13
+!s100 LnOY968Z?^V2igYSRaZc33

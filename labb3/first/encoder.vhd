@@ -11,7 +11,7 @@ entity encoder is
 end entity;  -- encoder
 
 architecture arch of encoder is
-  type   states is (start, s0, s1, s2, s3, s4, s5, s6, s7);
+  type   states is (start, s0, s1, s2, s3);
   signal cs      : states    := start;
   signal ns      : states    := start;
   signal nextDir : std_logic := '0';
@@ -34,66 +34,34 @@ begin
         when s0 =>
           if x = "01" then
             nextDir <= '0';
-            ns      <= s2;
+            ns      <= s1;
           elsif x = "10" then
             nextDir <= '1';
-            ns      <= s5;
+            ns      <= s2;
           end if;
         when s1 =>
-          if x = "01" then
-            nextDir <= '0';
-            ns      <= s2;
-          elsif x = "10" then
+          if x = "00" then
             nextDir <= '1';
-            ns      <= s5;
+            ns      <= s0;
+          elsif x = "11" then
+            nextDir <= '0';
+            ns      <= s3;
           end if;
         when s2 =>
           if x = "00" then
-            nextDir <= '1';
-            ns      <= s1;
-          elsif x = "11" then
             nextDir <= '0';
-            ns      <= s6;
+            ns      <= s0;
+          elsif x = "11" then
+            nextDir <= '1';
+            ns      <= s3;
           end if;
         when s3 =>
-          if x = "00" then
+          if x = "01" then
             nextDir <= '1';
             ns      <= s1;
-          elsif x = "11" then
-            nextDir <= '0';
-            ns      <= s6;
-          end if;
-        when s4 =>
-          if x = "00" then
-            nextDir <= '0';
-            ns      <= s0;
-          elsif x = "11" then
-            nextDir <= '1';
-            ns      <= s7;
-          end if;
-        when s5 =>
-          if x = "00" then
-            nextDir <= '0';
-            ns      <= s0;
-          elsif x = "11" then
-            nextDir <= '1';
-            ns      <= s7;
-          end if;
-        when s6 =>
-          if x = "01" then
-            nextDir <= '1';
-            ns      <= s3;
           elsif x = "10" then
             nextDir <= '0';
-            ns      <= s4;
-          end if;
-        when s7 =>
-          if x = "01" then
-            nextDir <= '1';
-            ns      <= s3;
-          elsif x = "10" then
-            nextDir <= '0';
-            ns      <= s4;
+            ns      <= s2;
           end if;
   end case;
 

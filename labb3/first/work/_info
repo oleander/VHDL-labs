@@ -4,26 +4,26 @@ K3
 cModel Technology
 Z0 d/chalmers/users/oleander/VHDL/Projects
 T_opt
-VaFWbTbYf>b2h1W^07M9N93
-04 7 4 work encoder arch 1
-Z1 =14-0013d32bab3a-4d5c0d96-4f6b4-335c
-Z2 o-quiet -auto_acc_if_foreign -work work +acc
-Z3 n@_opt
-Z4 OL;O;6.5b;42
+Z1 VaFWbTbYf>b2h1W^07M9N93
+Z2 04 7 4 work encoder arch 1
+Z3 =14-0013d32bab3a-4d5c0d96-4f6b4-335c
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;6.5b;42
 T_opt1
-Z5 V<jliB^6NB]1Y=AbD7zQeP1
-Z6 04 8 4 work tb1mealy test 1
-Z7 =28-0013d32bab3a-4d5a8ba5-678fb-2e3e
-Z8 o-quiet -auto_acc_if_foreign -work work
-Z9 n@_opt1
+VX3312>a7md^kSW3;9VFKY3
+R2
+Z7 =12-0013d32bab3a-4d5cccb2-20524-3b15
 R4
+Z8 n@_opt1
+R6
 T_opt2
-Z10 VKizLIf2=kg6X0[Q:8lY]z1
-Z11 04 8 4 work tb2mealy arch 1
-Z12 =8-0013d32bab3a-4d5a8c4b-3f1cb-76c7
-R8
+Z9 VKizLIf2=kg6X0[Q:8lY]z1
+Z10 04 8 4 work tb2mealy arch 1
+Z11 =8-0013d32bab3a-4d5a8c4b-3f1cb-76c7
+Z12 o-quiet -auto_acc_if_foreign -work work
 Z13 n@_opt2
-R4
+R6
 Ebcd59
 Z14 w1297784105
 Z15 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
@@ -144,7 +144,7 @@ R24
 R25
 Z60 !s100 4`>N4@TX0jA:bbWk1]<Pg0
 Eencoder
-Z61 w1297878415
+Z61 w1297927337
 R17
 R18
 R19
@@ -164,14 +164,14 @@ R18
 Z66 DEx4 work 7 encoder 0 22 jSWk0<VD=NR8Zg3UF]<Uk0
 l17
 L13
-Z67 VZ=kj^6g3F`RJ6E37fn<Cn0
+Z67 VQkgi_ag`kdZ<JNn@dGaI=2
 R23
 32
 R50
 R51
 R24
 R25
-Z68 !s100 jDZIKo;l7UfDKT<AdWz^V3
+Z68 !s100 KM@8mf?<ZMi@VgG>?1lne2
 Efd
 Z69 w1297002168
 R17

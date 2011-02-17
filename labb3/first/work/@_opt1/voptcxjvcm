@@ -1,0 +1,342 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/oleander/VHDL/Projects
+T_opt
+Z1 VaFWbTbYf>b2h1W^07M9N93
+Z2 04 7 4 work encoder arch 1
+Z3 =14-0013d32bab3a-4d5c0d96-4f6b4-335c
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+T_opt1
+Z7 VX3312>a7md^kSW3;9VFKY3
+R2
+Z8 =12-0013d32bab3a-4d5cccb2-20524-3b15
+R4
+Z9 n@_opt1
+R6
+T_opt2
+Z10 VKizLIf2=kg6X0[Q:8lY]z1
+Z11 04 8 4 work tb2mealy arch 1
+Z12 =8-0013d32bab3a-4d5a8c4b-3f1cb-76c7
+Z13 o-quiet -auto_acc_if_foreign -work work
+Z14 n@_opt2
+R6
+Ebcd59
+Z15 w1297784105
+Z16 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z17 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z18 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z19 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z20 d/chalmers/users/oleander/VHDL/Projects/labb3/first
+Z21 8/chalmers/users/oleander/VHDL/Projects/labb3/first/bcd59.vhd
+Z22 F/chalmers/users/oleander/VHDL/Projects/labb3/first/bcd59.vhd
+l0
+L6
+Z23 V^O6kGHP7W@h7KTbRS^^641
+Z24 OL;C;6.5b;42
+32
+Z25 o-work work -2002 -explicit
+Z26 tExplicit 1
+Z27 !s100 QJ?JS[X2LQ>e;X8jD<Vm>0
+Aarch
+R16
+R17
+R18
+R19
+Z28 DEx4 work 5 bcd59 0 22 ^O6kGHP7W@h7KTbRS^^641
+l21
+L16
+Z29 Vi8_zefjXeV4MM[AgD^F]12
+R24
+32
+Z30 Mx4 4 ieee 14 std_logic_1164
+Z31 Mx3 4 ieee 11 numeric_std
+Z32 Mx2 4 ieee 18 std_logic_unsigned
+Z33 Mx1 4 ieee 15 std_logic_arith
+R25
+R26
+Z34 !s100 6<>6OR?>a8n3`iMP;5o?_0
+Eclock
+Z35 w1297871993
+Z36 DPx4 work 10 components 0 22 1@m_SH=eB[eIQPg_]4cF32
+R18
+R19
+R20
+Z37 8/chalmers/users/oleander/VHDL/Projects/labb3/first/clock.vhd
+Z38 F/chalmers/users/oleander/VHDL/Projects/labb3/first/clock.vhd
+l0
+L6
+Z39 V;8XCHMIBcmWO3YbP1LZg72
+R24
+32
+R25
+R26
+Z40 !s100 O5mdXP]eP8[jNg<O9HJBF0
+Aarch
+R36
+R18
+R19
+Z41 DEx4 work 5 clock 0 22 ;8XCHMIBcmWO3YbP1LZg72
+l16
+L13
+Z42 Vmj:08UzXOeaj5IF0n4AjN1
+R24
+32
+Z43 Mx3 4 ieee 14 std_logic_1164
+Z44 Mx2 4 ieee 11 numeric_std
+Z45 Mx1 4 work 10 components
+R25
+R26
+Z46 !s100 GlfOUVT78M@<llTFZ=jJO3
+Pcomponents
+R18
+R19
+Z47 w1297868582
+R20
+Z48 8/chalmers/users/oleander/VHDL/Projects/labb3/first/components.vhd
+Z49 F/chalmers/users/oleander/VHDL/Projects/labb3/first/components.vhd
+l0
+L5
+Z50 V1@m_SH=eB[eIQPg_]4cF32
+R24
+32
+Z51 Mx2 4 ieee 14 std_logic_1164
+Z52 Mx1 4 ieee 11 numeric_std
+R25
+R26
+Z53 !s100 2Y35L?^D4?4VR9=?eFUl33
+Edrill
+Z54 w1297791859
+R16
+R17
+R18
+R19
+R20
+Z55 8/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
+Z56 F/chalmers/users/oleander/VHDL/Projects/labb3/first/drill.vhd
+l0
+L6
+Z57 VkLYYa4?V?=7Gm?a=Qh[Ze2
+R24
+32
+R25
+R26
+Z58 !s100 Q]`;=9N7@KGMh;]GL0lc;3
+Aarch
+R16
+R17
+R18
+R19
+Z59 DEx4 work 5 drill 0 22 kLYYa4?V?=7Gm?a=Qh[Ze2
+l17
+L12
+Z60 V_>MS:GXIcldclg=zme;g71
+R24
+32
+R30
+R31
+R32
+R33
+R25
+R26
+Z61 !s100 4`>N4@TX0jA:bbWk1]<Pg0
+Eencoder
+Z62 w1297927337
+Z63 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z64 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+R20
+Z65 8/chalmers/users/oleander/VHDL/Projects/labb3/first/encoder.vhd
+Z66 F/chalmers/users/oleander/VHDL/Projects/labb3/first/encoder.vhd
+l0
+L5
+Z67 VjSWk0<VD=NR8Zg3UF]<Uk0
+R24
+R25
+R26
+Z68 !s100 :g^oPT6[znI``FfjjeQWU3
+Aarch
+R63
+R64
+DEx55 /chalmers/users/oleander/VHDL/Projects/labb3/first/work 7 encoder 0 22 jSWk0<VD=NR8Zg3UF]<Uk0
+32
+Mx2 17 __model_tech/ieee 14 std_logic_1164
+Mx1 17 __model_tech/ieee 11 numeric_std
+l17
+L13
+Z69 VQkgi_ag`kdZ<JNn@dGaI=2
+R24
+R25
+R26
+Z70 !s100 KM@8mf?<ZMi@VgG>?1lne2
+Efd
+Z71 w1297002168
+R18
+R19
+R20
+Z72 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+Z73 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/fd.vhd
+l0
+L5
+Z74 V7ZnaBF;l7nAbCaU_YnfIE3
+R24
+32
+R25
+R26
+Z75 !s100 =nVh=YjJb1P<HE55k;GIN0
+Aarch
+R18
+R19
+Z76 DEx4 work 2 fd 0 22 7ZnaBF;l7nAbCaU_YnfIE3
+l14
+L12
+Z77 VV:IV3Z7z3Q`do302[Lb<A2
+R24
+32
+R51
+R52
+R25
+R26
+Z78 !s100 FngJ8NbBNWjMa?eD@bPO[1
+Egenhz
+Z79 w1297631399
+R16
+R17
+R18
+R19
+R20
+Z80 8/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+Z81 F/chalmers/users/oleander/VHDL/Projects/labb3/first/genhz.vhd
+l0
+L6
+Z82 VDFi7@G<Z3W_B2P7M47=341
+R24
+32
+R25
+R26
+Z83 !s100 Q=GPa1Y<[2<g_G^28P>O^2
+Aarch
+R16
+R17
+R18
+R19
+Z84 DEx4 work 5 genhz 0 22 DFi7@G<Z3W_B2P7M47=341
+l14
+L13
+Z85 V6F=WAYi3h`amK[=G2?l1n0
+R24
+32
+R30
+R31
+R32
+R33
+R25
+R26
+Z86 !s100 <k8gzD84BWmeZfBVALKGl1
+Emealy
+Z87 w1297774833
+R18
+R19
+R20
+Z88 8/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+Z89 F/chalmers/users/oleander/VHDL/Projects/labb3/first/mealy.vhd
+l0
+L5
+Z90 VCnXNe`fkZY9V^_QQ6H3md3
+R24
+32
+R25
+R26
+Z91 !s100 3^cCYTLY:8?Dn5_O<lFh52
+Aarch
+R18
+R19
+Z92 DEx4 work 5 mealy 0 22 CnXNe`fkZY9V^_QQ6H3md3
+l15
+L13
+Z93 VE=ZK___mi`KAIX32H?6243
+R24
+32
+R51
+R52
+R25
+R26
+Z94 !s100 OURQiQBYezcSI51[gbk9K3
+Pmypackage
+R18
+R19
+Z95 w1296998190
+R20
+Z96 8/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+Z97 F/chalmers/users/oleander/VHDL/Projects/labb2/assignment-2-3/mypackage.vhd
+l0
+L5
+Z98 V6fePo16mShTlWS3<nOKib3
+R24
+32
+R51
+R52
+R25
+R26
+Z99 !s100 AQS9oAebBG2EQPA:;Z1:=1
+Etb1mealy
+Z100 w1297778548
+R18
+R19
+R20
+Z101 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
+Z102 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb1mealy.vhd
+l0
+L5
+Z103 VTDll`fcUNd0^325gcG2iS0
+R24
+32
+R25
+R26
+Z104 !s100 XLf9[TKa1S>6G67gC4Wg70
+Atest
+R18
+R19
+Z105 DEx4 work 8 tb1mealy 0 22 TDll`fcUNd0^325gcG2iS0
+l22
+L11
+Z106 V_aD;[^SVER:EdZe4UX:Jz3
+R24
+32
+R51
+R52
+R25
+R26
+Z107 !s100 GQf=oQdMQizXoaQX1]^>N3
+Etb2mealy
+Z108 w1297779801
+R18
+R19
+R20
+Z109 8/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+Z110 F/chalmers/users/oleander/VHDL/Projects/labb3/first/tb2mealy.vhd
+l0
+L5
+Z111 V>D904mY^[LFWg2lFPM7:=2
+R24
+32
+R25
+R26
+Z112 !s100 75E^kS18=AEW;CAodN7Tn0
+Aarch
+R18
+R19
+Z113 DEx4 work 8 tb2mealy 0 22 >D904mY^[LFWg2lFPM7:=2
+l22
+L9
+Z114 VacfJVgE?dhCLd]lS2T0W62
+R24
+32
+R51
+R52
+R25
+R26
+Z115 !s100 LnOY968Z?^V2igYSRaZc33

@@ -20,7 +20,6 @@ begin
     if clk = '1' and clk'event then
       if reset='1' then
         cs <= start;
-        nextDir <= '0';
       else
         cs  <= ns;
         dir <= nextDir;

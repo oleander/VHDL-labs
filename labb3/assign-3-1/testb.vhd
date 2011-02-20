@@ -52,7 +52,6 @@ begin
       testok <= '0';
       report "error at time 800";
     end if;
-    wait;
 
     -- It should ignore {d} if {en} is deactivated, q = 1
     en <= '0';
@@ -62,6 +61,8 @@ begin
       testok <= '0';
       report "error at time 1000";
     end if;
+    
+    wait;
   end process;
   
 end architecture;  -- arch

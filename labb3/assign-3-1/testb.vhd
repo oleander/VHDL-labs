@@ -6,6 +6,7 @@ use work.mypackage.all;
 entity testb is
   port (testok : out std_logic := 'H');
 end entity;  -- testb
+
 architecture arch of testb is
   signal reset, en, d, q : std_logic;
   signal clk             : std_logic := '0';
@@ -13,6 +14,7 @@ begin
   
   reset <= '1', '0' after 150 ns;
   clk   <= not clk  after 100 ns;
+  
   u1 : fdre port map(clk, reset, en, d, q);
 
   test : process

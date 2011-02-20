@@ -3,3 +3,81 @@ K3
 13
 cModel Technology
 d/chalmers/users/oleander
+Efdre
+Z0 w1298224384
+Z1 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 d/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1
+Z4 8/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/fdre.vhd
+Z5 F/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/fdre.vhd
+l0
+L5
+V9<J]zeOEmo6>mX0<<fVF<2
+!s100 o_NKc=39l3JUl67U>:@KA1
+Z6 OL;C;6.5b;42
+32
+Z7 o-work work -2002 -explicit
+Z8 tExplicit 1
+Aarch
+R1
+R2
+Z9 DEx4 work 4 fdre 0 22 9<J]zeOEmo6>mX0<<fVF<2
+l14
+L12
+Z10 V5h0VJ^dmlej3@XcdbO=cm1
+Z11 !s100 Rl]:ZRSDQ<ZK4e4]<QScM1
+R6
+32
+Z12 Mx2 4 ieee 14 std_logic_1164
+Z13 Mx1 4 ieee 11 numeric_std
+R7
+R8
+Pmypackage
+R1
+R2
+w1298224389
+R3
+8/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/mypackage.vhd
+F/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/mypackage.vhd
+l0
+L5
+VCS3kIEGo@OC^iV8XH3m802
+R6
+32
+R12
+R13
+R7
+R8
+!s100 ><V_4W4d@9<UH7G?BJ7Ll0
+Etestb
+Z14 w1298224938
+Z15 DPx4 work 9 mypackage 0 22 CS3kIEGo@OC^iV8XH3m802
+R1
+R2
+R3
+Z16 8/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/testb.vhd
+Z17 F/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/testb.vhd
+l0
+L6
+VOLzJ3?U9WEN^X_^Zo>5oC3
+R6
+32
+R7
+R8
+!s100 jAK3G>=k6FX^VF@zPc8P62
+Aarch
+R15
+R1
+R2
+DEx4 work 5 testb 0 22 OLzJ3?U9WEN^X_^Zo>5oC3
+l11
+L9
+VUINgjeM;5VIX<3Gzze5Mb3
+R6
+32
+Z18 Mx3 4 ieee 14 std_logic_1164
+Mx2 4 ieee 11 numeric_std
+Mx1 4 work 9 mypackage
+R7
+R8
+!s100 GZ2loK@5Z3a@z5jWbKUZ;2

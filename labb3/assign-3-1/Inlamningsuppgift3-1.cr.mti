@@ -1,0 +1,16 @@
+/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/mypackage.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/mypackage.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling package mypackage
+
+} {} {}} /chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/fdre.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/fdre.vhd
+QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity fdre
+-- Compiling architecture arch of fdre
+
+} {} {}}

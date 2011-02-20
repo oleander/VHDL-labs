@@ -1,0 +1,91 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/oleander
+T_opt
+Z1 VKQ1JImV8=]EA_GF4F:1_A2
+Z2 04 5 4 work testb arch 1
+Z3 =7-0013d32bab3a-4d615dde-d5e91-7a1
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+Efdre
+Z7 w1298224384
+Z8 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z10 d/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1
+Z11 8/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/fdre.vhd
+Z12 F/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/fdre.vhd
+l0
+L5
+Z13 V9<J]zeOEmo6>mX0<<fVF<2
+Z14 OL;C;6.5b;42
+32
+Z15 o-work work -2002 -explicit
+Z16 tExplicit 1
+Z17 !s100 o_NKc=39l3JUl67U>:@KA1
+Aarch
+Z18 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z19 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z20 DEx60 /chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/work 4 fdre 0 22 9<J]zeOEmo6>mX0<<fVF<2
+32
+Z21 Mx2 17 __model_tech/ieee 14 std_logic_1164
+Z22 Mx1 17 __model_tech/ieee 11 numeric_std
+l14
+L12
+Z23 V5h0VJ^dmlej3@XcdbO=cm1
+R14
+R15
+R16
+Z24 !s100 Rl]:ZRSDQ<ZK4e4]<QScM1
+Pmypackage
+R18
+R19
+32
+R21
+R22
+Z25 w1298224389
+R10
+Z26 8/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/mypackage.vhd
+Z27 F/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/mypackage.vhd
+l0
+L5
+Z28 VCS3kIEGo@OC^iV8XH3m802
+R14
+R15
+R16
+Z29 !s100 ><V_4W4d@9<UH7G?BJ7Ll0
+Etestb
+Z30 w1298226649
+Z31 DPx60 /chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/work 9 mypackage 0 22 CS3kIEGo@OC^iV8XH3m802
+R18
+R19
+32
+R10
+Z32 8/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/testb.vhd
+Z33 F/chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/testb.vhd
+l0
+L6
+Z34 VI0BNLY^RlPYEg<Xk`]<DC0
+R14
+R15
+R16
+Z35 !s100 f4CmFAoo^zj`VZD]UL;DC3
+Aarch
+R20
+R31
+R18
+R19
+Z36 DEx60 /chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/work 5 testb 0 22 I0BNLY^RlPYEg<Xk`]<DC0
+32
+Z37 Mx3 17 __model_tech/ieee 14 std_logic_1164
+Z38 Mx2 17 __model_tech/ieee 11 numeric_std
+Z39 Mx1 60 /chalmers/users/oleander/VHDL/Projects/labb3/assign-3-1/work 9 mypackage
+l11
+L9
+Z40 V5Ah1bzC=@nT`9HmohSR8e0
+R14
+R15
+R16
+Z41 !s100 BVh<HH577872W<e8=Z>Pn2

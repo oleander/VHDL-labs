@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/oleander
+T_opt
+Z1 V@c`1Zk0i0IQ3X<56[07AP3
+Z2 04 7 4 work hasard1 arch 1
+Z3 =4-0013d32bab3a-4d68fccc-1a091-2421
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+T_opt1
+Z7 VIXdniG30H3BNPJQg;bziM2
+Z8 04 6 4 work arbit3 arch 1
+Z9 =15-0013d32bab3a-4d772fa7-38f76-5622
+R4
+Z10 n@_opt1
+R6
+Earbit3
+Z11 w1299656608
+Z12 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z13 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+Z14 d/chalmers/users/oleander/VHDL/Projects/labb4/first
+Z15 8/chalmers/users/oleander/VHDL/Projects/labb4/first/arbit3.vhd
+Z16 F/chalmers/users/oleander/VHDL/Projects/labb4/first/arbit3.vhd
+l0
+L5
+Z17 V5]f=l4h;gQ>QgcMTSXj8M1
+Z18 OL;C;6.5b;42
+Z19 o-work work -2002 -explicit
+Z20 tExplicit 1
+Z21 !s100 fz[kF7oj:207O?6`2TG3:0
+Aarch
+R12
+R13
+DEx55 /chalmers/users/oleander/VHDL/Projects/labb4/first/work 6 arbit3 0 22 5]f=l4h;gQ>QgcMTSXj8M1
+32
+Mx2 17 __model_tech/ieee 14 std_logic_1164
+Mx1 17 __model_tech/ieee 11 numeric_std
+l15
+L13
+Z22 VJDHEmJmz6>F4Eo7maFJ7^0
+R18
+R19
+R20
+Z23 !s100 j2:<GH7mMokm^J0lMUfd13
+Ehasard1
+Z24 w1298726085
+Z25 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z26 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R14
+Z27 8/chalmers/users/oleander/VHDL/Projects/labb4/first/hasard1.vhd
+Z28 F/chalmers/users/oleander/VHDL/Projects/labb4/first/hasard1.vhd
+l0
+L5
+Z29 V][EdWYTdM[_m?H<e>bozW2
+R18
+32
+R19
+R20
+Z30 !s100 [^[N1L_OBmC7;CeboU3CO1
+Aarch
+R25
+R26
+Z31 DEx4 work 7 hasard1 0 22 ][EdWYTdM[_m?H<e>bozW2
+l14
+L12
+Z32 Vh>FDZR8mA`;<6D4ESJLdk1
+R18
+32
+Z33 Mx2 4 ieee 14 std_logic_1164
+Z34 Mx1 4 ieee 11 numeric_std
+R19
+R20
+Z35 !s100 W:IOde`]2gXFbQi;1[caQ2

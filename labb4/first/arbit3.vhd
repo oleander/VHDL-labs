@@ -11,16 +11,13 @@ entity arbit3 is
 end entity ; -- arbit3
 
 architecture arch of arbit3 is
-  -- type state is (s0, s1, s2, s3);
   signal g_inner : std_logic_vector(2 downto 0) ;
 begin
   runner : process(r, reset)
   begin
-    if(reset = '1' and reset'event) then
-      
+    if(reset = '1' and reset'event) then      
       g_inner <= (others => '0');
-      
-    elsif(r'event) then
+    elsif r'event then
       if g_inner = "000" then
         if r(2)='1' then
           g_inner <= "100";
@@ -62,4 +59,5 @@ begin
       end if;
     end if;
   end process;
+  g <= g_inner;
 end architecture ; -- arch

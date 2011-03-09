@@ -1,11 +1,9 @@
-/chalmers/users/oleander/VHDL/Projects/labb4/first/arbit3.vhd {0 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb4/first/arbit3.vhd
+/chalmers/users/oleander/VHDL/Projects/labb4/first/hasard1.vhd {1 {vcom -work work -2002 -explicit -vopt /chalmers/users/oleander/VHDL/Projects/labb4/first/hasard1.vhd
 QuestaSim-64 vcom 6.5b Compiler 2009.05 May 21 2009
 -- Loading package standard
 -- Loading package std_logic_1164
 -- Loading package numeric_std
--- Compiling entity arbit3
--- Compiling architecture arch of arbit3
-** Error: /chalmers/users/oleander/VHDL/Projects/labb4/first/arbit3.vhd(24): Case statement covers only 4 out of 729 cases.
-** Error: /chalmers/users/oleander/VHDL/Projects/labb4/first/arbit3.vhd(66): VHDL Compiler exiting
+-- Compiling entity hasard1
+-- Compiling architecture arch of hasard1
 
-} {8.0 10.0} {}}
+} {} {}}
